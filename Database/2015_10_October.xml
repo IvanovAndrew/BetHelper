@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data>
+    <Bet>
+        <Date>01.10.2015 18:44:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Krasnodar v Gabala</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002177/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.10.2015 18:44:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Villarreal v Viktoria Plzen</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002178/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.10.2015 18:45:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Liverpool v Sion</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002179/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.10.2015 18:45:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rubin Kazan v Bordeaux</Match>
+                <Event>1st Half Betting</Event>
+                <Selection>Draw</Selection>
+                <Koefficient>1.83</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002180/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.10.2015 16:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Hoffenheim v Stuttgart</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 3.5</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0002181/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.10.2015 16:24:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bournemouth v Watford</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Watford</Selection>
+                <Koefficient>2.62</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0002182/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.10.2015 13:04:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Dynamo Moscow v CSKA Moscow</Match>
+                <Event>Match x Goals</Event>
+                <Selection>CSKA Moscow Win and Over 2.5 Goals</Selection>
+                <Koefficient>3.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002183/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.10.2015 13:21:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Everton v Liverpool</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Liverpool</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0002184/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.10.2015 13:22:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Udinese v Genoa</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Udinese</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0002185/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.10.2015 13:22:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Schalke 04 v FC Koln</Match>
+                <Event>Match Betting</Event>
+                <Selection>Schalke 04</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002186/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.10.2015 13:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Athletic Bilbao v Valencia</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0002187/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.10.2015 13:25:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Swansea v Tottenham</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002188/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.10.2015 13:26:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lorient v Bordeaux</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Lorient</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002189/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.10.2015 11:46:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Seychelles v Burundi</Match>
+                <Event>Match Betting</Event>
+                <Selection>Burundi</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002190/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.10.2015 12:59:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Scotland v Poland</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002191/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.10.2015 13:00:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Republic of Ireland v Germany</Match>
+                <Event>Germany Under/Over 2.5 Goals</Event>
+                <Selection>Over</Selection>
+                <Koefficient>2.70</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002192/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.10.2015 12:13:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Moldova v Russia</Match>
+                <Event>Match x Goals</Event>
+                <Selection>Russia Win and Under 2.5 Goals</Selection>
+                <Koefficient>2.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002193/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.10.2015 11:56:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Croatia v Bulgaria</Match>
+                <Event>Double Result</Event>
+                <Selection>Croatia/Croatia</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002194/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.10.2015 11:56:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Iceland v Latvia</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0002195/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.10.2015 19:05:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Poland v Republic of Ireland</Match>
+                <Event>Match Betting</Event>
+                <Selection>Poland</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002196/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.10.2015 15:40:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Russia v Montenegro</Match>
+                <Event>1st Half Betting</Event>
+                <Selection>Russia</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002197/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.10.2015 15:40:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Austria v Liechtenstein</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 3.5</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002198/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.10.2015 15:41:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>San Marino v Slovenia</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Slovenia -3 goals</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002199/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.10.2015 15:41:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Luxembourg v Slovakia</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Slovakia -1 goal</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002200/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.10.2015 15:55:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Latvia v Kazakhstan</Match>
+                <Event>Match Betting</Event>
+                <Selection>Draw</Selection>
+                <Koefficient>3.10</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002201/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.10.2015 19:00:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Paderborn v Braunschweig</Match>
+                <Event>Match Betting</Event>
+                <Selection>Paderborn</Selection>
+                <Koefficient>2.37</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.12</Returns>
+        <Reference>O/6351351/0002202/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.10.2015 16:03:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Werder Bremen v Bayern Munich</Match>
+                <Event>1st Half Over/Under Goals</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002203/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.10.2015 16:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Everton v Man Utd</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Everton</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002204/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.10.2015 16:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>West Brom v Sunderland</Match>
+                <Event>Double Chance</Event>
+                <Selection>Sunderland Or Draw</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002205/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.10.2015 16:13:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Man City v Bournemouth</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Man City</Selection>
+                <Koefficient>2.37</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002206/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.10.2015 16:16:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Real Madrid v Levante</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 3.5</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002207/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.10.2015 16:17:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Roma v Empoli</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Roma</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002208/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.10.2015 16:19:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Eintracht Frankfurt v Borussia M'gladbach</Match>
+                <Event>Match Betting</Event>
+                <Selection>Eintracht Frankfurt</Selection>
+                <Koefficient>2.50</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002209/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.10.2015 16:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Toulouse v Angers</Match>
+                <Event>Double Chance</Event>
+                <Selection>Angers Or Draw</Selection>
+                <Koefficient>1.83</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002210/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.10.2015 16:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Nantes v Troyes</Match>
+                <Event>Match Betting</Event>
+                <Selection>Nantes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002211/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.10.2015 16:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Guingamp v Lille</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Lille</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0002212/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.10.2015 16:26:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Barcelona v Rayo Vallecano</Match>
+                <Event>Rayo Vallecano To Score 2nd Half</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.60</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.13</Returns>
+        <Reference>O/6351351/0002213/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.10.2015 16:26:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Valencia v Malaga</Match>
+                <Event>Both Teams To Score and Under/Over 2.5 Goals</Event>
+                <Selection>Yes And Over 2.5 Goals</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002214/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.10.2015 12:52:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Spartak Moscow v Lokomotiv</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002215/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.10.2015 14:19:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Marseille v Lorient</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002216/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.10.2015 14:21:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Frosinone v Sampdoria</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Frosinone</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0002217/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.10.2015 14:22:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sassuolo v Lazio</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Sassuolo</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0002218/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.10.2015 14:22:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Atalanta v Carpi</Match>
+                <Event>Match Betting</Event>
+                <Selection>Atalanta</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002219/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.10.2015 14:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Real Sociedad v Atletico Madrid</Match>
+                <Event>1st Half Betting</Event>
+                <Selection>Draw</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002220/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.10.2015 14:24:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Newcastle v Norwich</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Norwich</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002221/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.10.2015 14:24:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rennes v Nice</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002222/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.10.2015 13:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Zenit St Petersburg v Lyon</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002223/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.10.2015 13:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Dinamo Zagreb v Olympiacos</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002224/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.10.2015 10:59:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Paris Saint-Germain v Real Madrid</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002225/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.10.2015 11:00:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Atletico Madrid v Astana</Match>
+                <Event>1st Half Over/Under Goals</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>2.37</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.12</Returns>
+        <Reference>O/6351351/0002226/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.10.2015 11:01:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Juventus v Borussia M'gladbach</Match>
+                <Event>First Half Double Chance</Event>
+                <Selection>Borussia M'gladbach Or Draw</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002227/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.10.2015 20:40:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>PAOK Salonika v FK Krasnodar</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002228/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.10.2015 20:42:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Molde v Celtic</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002229/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.10.2015 20:42:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Legia Warsaw v Club Brugge</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0002230/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>23.10.2015 19:07:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Hoffenheim v Hamburg</Match>
+                <Event>Match Betting</Event>
+                <Selection>Hoffenheim</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002231/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.10.2015 11:32:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Empoli v Genoa</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Genoa</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002232/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.10.2015 11:33:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bayern Munich v FC Koln</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.50</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002233/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.10.2015 11:33:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Celta Vigo v Real Madrid</Match>
+                <Event>Match Betting</Event>
+                <Selection>Real Madrid</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002234/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.10.2015 11:34:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Stoke v Watford</Match>
+                <Event>Match Betting</Event>
+                <Selection>Stoke</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002235/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.10.2015 11:35:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Norwich v West Brom</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>West Brom</Selection>
+                <Koefficient>2.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.14</Returns>
+        <Reference>O/6351351/0002236/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.10.2015 11:35:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Aston Villa v Swansea</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Swansea</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002237/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.10.2015 11:36:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lorient v Rennes</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002238/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.10.2015 11:36:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Carpi v Bologna</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Bologna</Selection>
+                <Koefficient>2.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.13</Returns>
+        <Reference>O/6351351/0002239/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.10.2015 11:37:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Ingolstadt v Hertha Berlin</Match>
+                <Event>Match Betting</Event>
+                <Selection>Draw</Selection>
+                <Koefficient>3.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002240/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.10.2015 11:37:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Ajaccio GFCO v Nice</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002241/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.10.2015 11:39:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sevilla v Getafe</Match>
+                <Event>1st Half Betting</Event>
+                <Selection>Sevilla</Selection>
+                <Koefficient>1.83</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002242/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.10.2015 11:53:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Dynamo Moscow v Spartak Moscow</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002243/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.10.2015 11:54:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sunderland v Newcastle</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002244/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.10.2015 11:55:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Juventus v Atalanta</Match>
+                <Event>Atalanta To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002245/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.10.2015 11:56:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Fiorentina v Roma</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002246/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.10.2015 11:57:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Barcelona v Eibar</Match>
+                <Event>Barcelona Highest Scoring Half?</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002247/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.10.2015 11:57:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Paris Saint-Germain v St Etienne</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Paris Saint-Germain -1 goal</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002248/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.10.2015 11:58:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Atletico Madrid v Valencia</Match>
+                <Event>Match x Goals</Event>
+                <Selection>Atletico Madrid Win and Under 2.5 Goals</Selection>
+                <Koefficient>3.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002249/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.10.2015 13:15:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lokomotiv v Rostov</Match>
+                <Event>Both Teams To Score and Under/Over 2.5 Goals</Event>
+                <Selection>Yes And Over 2.5 Goals</Selection>
+                <Koefficient>3.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002250/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.10.2015 10:14:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sassuolo v Juventus</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002251/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.10.2015 10:15:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>AC Milan v Chievo</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002252/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.10.2015 10:16:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Atalanta v Lazio</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Atalanta</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0002253/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.10.2015 20:17:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rennes v Paris Saint-Germain</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002254/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.10.2015 11:53:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chelsea v Liverpool</Match>
+                <Event>Match Handicap -1 Goal</Event>
+                <Selection>Liverpool +1 goal</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002255/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.10.2015 11:54:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>FC Koln v Hoffenheim</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Hoffenheim</Selection>
+                <Koefficient>2.50</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0002256/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.10.2015 11:56:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Crystal Palace v Man Utd</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002257/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.10.2015 11:57:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Valencia v Levante</Match>
+                <Event>Match Handicap -1 Goal</Event>
+                <Selection>Valencia -1 goal</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0002258/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.10.2015 11:58:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Villarreal v Sevilla</Match>
+                <Event>Both Teams To Score and Under/Over 2.5 Goals</Event>
+                <Selection>Yes And Over 2.5 Goals</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0002259/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.10.2015 11:59:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Wolfsburg v Bayer Leverkusen</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Wolfsburg</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0002260/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.10.2015 12:00:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Guingamp v Lorient</Match>
+                <Event>Match Handicap -1 Goal</Event>
+                <Selection>Lorient +1 goal</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002261/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.10.2015 12:00:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Troyes v Lyon</Match>
+                <Event>Match Betting</Event>
+                <Selection>Lyon</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002262/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.10.2015 12:01:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Ajaccio GFCO v Bordeaux</Match>
+                <Event>Match Handicap +1 Goal</Event>
+                <Selection>Ajaccio GFCO +1 goal</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0002263/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.10.2015 12:01:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bastia v Caen</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Caen</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0002264/F</Reference>
+    </Bet>
+</Data>
+

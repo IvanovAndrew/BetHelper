@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data>
+    <Bet>
+        <Date>01.12.2014 22:52:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Almeria v Rayo Vallecano</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>No</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001508/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.12.2014 22:52:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sampdoria v Napoli</Match>
+                <Event>Double Chance</Event>
+                <Selection>Sampdoria Or Draw</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0001509/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.12.2014 19:59:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Man Utd v Stoke</Match>
+                <Event>Match Result and Both Teams To Score</Event>
+                <Selection>Man Utd</Selection>
+                <Koefficient>3.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.18</Returns>
+        <Reference>O/6351351/0001510/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.12.2014 19:59:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>West Brom v West Ham</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001511/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.12.2014 20:00:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Monaco v Lens</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Lens +2 goals</Selection>
+                <Koefficient>1.57</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001512/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>03.12.2014 10:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rubin Kazan v Zenit St Petersburg</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001513/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>03.12.2014 21:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Metz v Bordeaux</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Bordeaux</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001514/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>03.12.2014 21:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Guingamp v Caen</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Caen</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001515/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>03.12.2014 21:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Everton v Hull</Match>
+                <Event>Match Betting</Event>
+                <Selection>Everton</Selection>
+                <Koefficient>1.55</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001516/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.12.2014 23:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lyon v Reims</Match>
+                <Event>Match x Goals</Event>
+                <Selection>Lyon Win and Over 2.5 Goals</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001517/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.12.2014 22:02:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Fiorentina v Juventus</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001518/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.12.2014 14:14:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>FC Koln v Augsburg</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Augsburg</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001519/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.12.2014 14:15:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rennes v Montpellier</Match>
+                <Event>Match Betting</Event>
+                <Selection>Rennes</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001520/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.12.2014 14:15:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bordeaux v Lorient</Match>
+                <Event>Match Betting</Event>
+                <Selection>Bordeaux</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001521/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.12.2014 14:15:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Athletic Bilbao v Cordoba</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Athletic Bilbao -1 goal</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001522/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.12.2014 14:16:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Deportivo La Coruna v Malaga</Match>
+                <Event>1st Half Betting</Event>
+                <Selection>Draw</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001523/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.12.2014 17:03:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Parma v Lazio</Match>
+                <Event>Match Betting</Event>
+                <Selection>Lazio</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001524/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.12.2014 17:04:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Hamburg v Mainz 05</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Mainz 05</Selection>
+                <Koefficient>2.50</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001525/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.12.2014 17:05:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Barcelona v Espanyol</Match>
+                <Event>1st Half Barcelona Under/Over 1.5 Goals</Event>
+                <Selection>Over</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001526/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.12.2014 17:05:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Aston Villa v Leicester</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Aston Villa</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001527/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.12.2014 17:06:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Inter Milan v Udinese</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001528/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.12.2014 17:08:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Marseille v Metz</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Marseille -1 goal</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001529/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.12.2014 18:53:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rostov v Arsenal Tula</Match>
+                <Event>Match Betting</Event>
+                <Selection>Rostov</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001530/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.12.2014 19:01:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Cagliari v Chievo</Match>
+                <Event>Double Chance</Event>
+                <Selection>Chievo Or Draw</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001531/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.12.2014 19:03:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Verona v Sampdoria</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001532/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.12.2014 19:04:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Southampton v Man Utd</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Man Utd</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001533/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.12.2014 18:40:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Benfica v Bayer Leverkusen</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001534/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.12.2014 18:41:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Juventus v Atletico Madrid</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001535/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.12.2014 18:41:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Monaco v Zenit St Petersburg</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>No</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001536/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.12.2014 18:41:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Real Madrid v Ludogorets</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Real Madrid -3 goals</Selection>
+                <Koefficient>2.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.14</Returns>
+        <Reference>O/6351351/0001537/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.12.2014 20:11:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Ajax v APOEL Nicosia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Ajax</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0001538/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.12.2014 20:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>NK Maribor v Schalke 04</Match>
+                <Event>Match Betting</Event>
+                <Selection>Schalke 04</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001539/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.12.2014 20:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Roma v Man City</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Roma</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001540/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.12.2014 20:15:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bayern Munich v CSKA Moscow</Match>
+                <Event>1st Half Result/2nd Half Result</Event>
+                <Selection>Bayern Munich Win 1st Half/Bayern Munich Win 2nd Half</Selection>
+                <Koefficient>2.37</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.12</Returns>
+        <Reference>O/6351351/0001541/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.12.2014 17:50:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Karabagh v Inter Milan</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Inter Milan</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001542/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.12.2014 17:51:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lille v Wolfsburg</Match>
+                <Event>Match Betting</Event>
+                <Selection>Wolfsburg</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001543/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.12.2014 17:55:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>PAOK Salonika v Guingamp</Match>
+                <Event>PAOK Salonika To Score 2nd Half</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.55</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001544/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.12.2014 17:56:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sevilla v Rijeka</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Sevilla -1 goal</Selection>
+                <Koefficient>1.55</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001545/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.12.2014 19:37:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Hoffenheim v Eintracht Frankfurt</Match>
+                <Event>Double Chance</Event>
+                <Selection>Eintracht Frankfurt Or Draw</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001546/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.12.2014 19:37:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lyon v Caen</Match>
+                <Event>Match Result and Both Teams To Score</Event>
+                <Selection>Lyon</Selection>
+                <Koefficient>3.40</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001547/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.12.2014 15:14:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Schalke 04 v FC Koln</Match>
+                <Event>Double Result</Event>
+                <Selection>Schalke 04/Schalke 04</Selection>
+                <Koefficient>3.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001548/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.12.2014 15:15:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Leicester v Man City</Match>
+                <Event>Teams To Score</Event>
+                <Selection>Man City Only</Selection>
+                <Koefficient>3.10</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.16</Returns>
+        <Reference>O/6351351/0001549/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.12.2014 15:15:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sunderland v West Ham</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>West Ham</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001550/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.12.2014 15:16:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>West Brom v Aston Villa</Match>
+                <Event>Double Chance</Event>
+                <Selection>Aston Villa Or Draw</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001551/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.12.2014 15:21:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Getafe v Barcelona</Match>
+                <Event>Match x Goals</Event>
+                <Selection>Barcelona Win and Under 2.5 Goals</Selection>
+                <Koefficient>4.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001552/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.12.2014 15:21:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bastia v Rennes</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Bastia</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001553/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.12.2014 15:22:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lorient v Metz</Match>
+                <Event>Match Betting</Event>
+                <Selection>Lorient</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001554/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.12.2014 14:38:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Espanyol v Granada</Match>
+                <Event>Match Betting</Event>
+                <Selection>Espanyol</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001555/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.12.2014 15:03:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Man Utd v Liverpool</Match>
+                <Event>Match Betting</Event>
+                <Selection>Man Utd</Selection>
+                <Koefficient>1.83</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001556/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.12.2014 15:06:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Genoa v Roma</Match>
+                <Event>Double Chance</Event>
+                <Selection>Genoa Or Draw</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001557/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.12.2014 15:07:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Guingamp v Paris Saint-Germain</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Paris Saint-Germain -1 goal</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001558/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.12.2014 15:11:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Swansea v Tottenham</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0001559/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.12.2014 15:14:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Wolfsburg v Paderborn</Match>
+                <Event>Teams To Score</Event>
+                <Selection>Wolfsburg Only</Selection>
+                <Koefficient>2.60</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001560/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.12.2014 15:18:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Atletico Madrid v Villarreal</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001561/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.12.2014 22:41:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>FC Koln v Mainz 05</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>FC Koln</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001562/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.12.2014 22:42:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Hamburg v Stuttgart</Match>
+                <Event>Double Chance</Event>
+                <Selection>Stuttgart Or Draw</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001563/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.12.2014 21:46:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Paderborn v Schalke 04</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Schalke 04</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0001564/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.12.2014 21:46:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Eintracht Frankfurt v Hertha Berlin</Match>
+                <Event>Match Result and Both Teams To Score</Event>
+                <Selection>Eintracht Frankfurt</Selection>
+                <Koefficient>3.60</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001565/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.12.2014 20:53:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Napoli v Parma</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001566/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>19.12.2014 21:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lens v Nice</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001567/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>19.12.2014 21:30:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Mainz 05 v Bayern Munich</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Bayern Munich</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001568/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.12.2014 15:27:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Schalke 04 v Hamburg</Match>
+                <Event>Match Betting</Event>
+                <Selection>Schalke 04</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001569/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.12.2014 15:27:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>West Ham v Leicester</Match>
+                <Event>Match Betting</Event>
+                <Selection>West Ham</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001570/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.12.2014 15:28:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Hull v Swansea</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001571/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.12.2014 15:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Barcelona v Cordoba</Match>
+                <Event>Highest Scoring Half</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001572/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.12.2014 15:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Caen v Bastia</Match>
+                <Event>Double Chance</Event>
+                <Selection>Bastia Or Draw</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001573/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.12.2014 15:30:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Metz v Monaco</Match>
+                <Event>Match Betting</Event>
+                <Selection>Monaco</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001574/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.12.2014 15:30:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Roma v AC Milan</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001575/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.12.2014 11:36:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Villarreal v Deportivo La Coruna</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Villarreal -1 goal</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001576/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.12.2014 11:36:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sampdoria v Udinese</Match>
+                <Event>Match Betting</Event>
+                <Selection>Sampdoria</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001577/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.12.2014 11:37:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Inter Milan v Lazio</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001578/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.12.2014 11:38:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Athletic Bilbao v Atletico Madrid</Match>
+                <Event>Double Chance</Event>
+                <Selection>Athletic Bilbao Or Draw</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001579/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.12.2014 18:07:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Juventus v Napoli</Match>
+                <Event>Match Betting</Event>
+                <Selection>Juventus</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001580/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.12.2014 18:32:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>West Brom v Man City</Match>
+                <Event>Match x Goals</Event>
+                <Selection>Man City Win and Under 2.5 Goals</Selection>
+                <Koefficient>3.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001581/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.12.2014 18:33:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Everton v Stoke</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001582/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.12.2014 18:33:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Burnley v Liverpool</Match>
+                <Event>Match Betting</Event>
+                <Selection>Liverpool</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001583/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.12.2014 18:33:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Leicester v Tottenham</Match>
+                <Event>Match Betting</Event>
+                <Selection>Tottenham</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001584/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.12.2014 16:25:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Stoke v West Brom</Match>
+                <Event>Match Betting</Event>
+                <Selection>Stoke</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001585/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.12.2014 16:26:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Aston Villa v Sunderland</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Aston Villa</Selection>
+                <Koefficient>1.57</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001586/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.12.2014 16:26:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Man City v Burnley</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 3.5</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001587/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>29.12.2014 23:33:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Liverpool v Swansea</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001588/F</Reference>
+    </Bet>
+</Data>
+

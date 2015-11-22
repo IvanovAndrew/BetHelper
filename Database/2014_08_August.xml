@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data>
+    <Bet>
+        <Date>01.08.2014 17:30:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Slovan Bratislava v Ruzomberok</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Ruzomberok +2 goals</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>NK Zagreb v Lok Zagreb</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.02</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001190/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.08.2014 17:36:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rubin Kazan v Spartak Moscow</Match>
+                <Event>Highest Scoring Half</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001191/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.08.2014 16:22:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Ural v Mordovia Saransk</Match>
+                <Event>Double Chance</Event>
+                <Selection>Mordovia Saransk Or Draw</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001192/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.08.2014 16:55:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Dynamo Moscow v Rostov</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001193/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.08.2014 16:55:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Kuban v FC Ufa</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001194/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.08.2014 16:55:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lokomotiv v FK Krasnodar</Match>
+                <Event>Match Betting</Event>
+                <Selection>Lokomotiv</Selection>
+                <Koefficient>1.83</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001195/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.08.2014 14:13:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Terek Grozni v Amkar</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Terek Grozni</Selection>
+                <Koefficient>2.60</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.13</Returns>
+        <Reference>O/6351351/0001196/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.08.2014 14:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Kaiserslautern v 1860 Munich</Match>
+                <Event>Match Betting</Event>
+                <Selection>Kaiserslautern</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001197/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.08.2014 19:22:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Panathinaikos v Standard Liege</Match>
+                <Event>Match Betting</Event>
+                <Selection>Panathinaikos</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Lille v Grasshopper</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Lille</Selection>
+                <Koefficient>1.08</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.02</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001198/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.08.2014 19:28:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Zenit St Petersburg v A.E.L.</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Zenit St Petersburg -2 goals</Selection>
+                <Koefficient>2.37</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.12</Returns>
+        <Reference>O/6351351/0001199/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.08.2014 20:59:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Besiktas v Feyenoord</Match>
+                <Event>Match Betting</Event>
+                <Selection>Besiktas</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Steaua Bucharest v Aktobe</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Steaua Bucharest -1 goal</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.02</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001200/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.08.2014 21:02:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Salzburg v Karabagh</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Salzburg</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Celtic v Legia Warsaw</Match>
+                <Event>Match x Goals</Event>
+                <Selection>Celtic Win and Over 2.5 Goals</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.02</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001201/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.08.2014 19:23:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>St Polten v PSV Eindhoven</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>PSV Eindhoven -1 goal</Selection>
+                <Koefficient>2.30</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>FK Krasnodar v Diosgyori</Match>
+                <Event>Match Betting</Event>
+                <Selection>FK Krasnodar</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.02</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001202/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.08.2014 19:27:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Slovan Liberec v Astra Giurgiu</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Hafnarfjordur v Elfsborg</Match>
+                <Event>Double Chance</Event>
+                <Selection>Hafnarfjordur Or Draw</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Hajduk Split v Shakhter Karagandy</Match>
+                <Event>Match Betting</Event>
+                <Selection>Hajduk Split</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.02</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001203/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.08.2014 15:26:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Amkar v FC Ufa</Match>
+                <Event>Double Chance</Event>
+                <Selection>FC Ufa Or Draw</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001204/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.08.2014 20:40:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Reims v Paris Saint-Germain</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Reims +2 goals</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0001205/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.08.2014 16:03:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Exeter v Portsmouth</Match>
+                <Event>Match Betting</Event>
+                <Selection>Portsmouth</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Millwall v Leeds</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Millwall</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001206/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.08.2014 16:04:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Nottingham Forest v Blackpool</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Blackpool +2 goals</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Middlesbrough v Birmingham</Match>
+                <Event>Match Betting</Event>
+                <Selection>Middlesbrough</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001207/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.08.2014 16:05:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Zenit St Petersburg v Torpedo Moscow</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Torpedo Moscow +3 goals</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Terek Grozni v Rubin Kazan</Match>
+                <Event>Match Betting</Event>
+                <Selection>Terek Grozni</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001208/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.08.2014 16:06:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lille v Metz</Match>
+                <Event>Match Betting</Event>
+                <Selection>Lille</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Bastia v Marseille</Match>
+                <Event>Match Betting</Event>
+                <Selection>Marseille</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001209/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.08.2014 15:41:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Ural v FK Krasnodar</Match>
+                <Event>Match Betting</Event>
+                <Selection>FK Krasnodar</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001210/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.08.2014 15:41:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Arsenal Tula v Lokomotiv</Match>
+                <Event>Lokomotiv Under/Over 1.5 Goals</Event>
+                <Selection>Over</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0001211/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.08.2014 15:42:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Monaco v Lorient</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001212/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.08.2014 16:24:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Hacken v Elfsborg</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Hacken</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001213/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.08.2014 16:24:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Greuther Furth v Nurnberg</Match>
+                <Event>Match Betting</Event>
+                <Selection>Greuther Furth</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001214/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.08.2014 14:39:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>FC Ufa v Dynamo Moscow</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Dynamo Moscow</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001215/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.08.2014 14:41:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Ural v Zenit St Petersburg</Match>
+                <Event>Zenit St Petersburg Under/Over 1.5 Goals</Event>
+                <Selection>Over</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>CSKA Moscow v Terek Grozni</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Terek Grozni +2 goals</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001216/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.08.2014 14:41:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Arsenal Tula v Rubin Kazan</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001217/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.08.2014 13:54:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lokomotiv v Rostov</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Lokomotiv</Selection>
+                <Koefficient>2.30</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001218/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.08.2014 13:56:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>FK Krasnodar v Spartak Moscow</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001219/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.08.2014 13:56:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>UTC Cajamarca v Cienciano</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>UTC Cajamarca -1 goal</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001220/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.08.2014 12:00:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Mordovia Saransk v Kuban</Match>
+                <Event>Double Chance</Event>
+                <Selection>Mordovia Saransk Or Draw</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0001221/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.08.2014 12:01:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Porto v Maritimo</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Porto -2 goals</Selection>
+                <Koefficient>2.50</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001222/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.08.2014 16:20:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Stoke v Aston Villa</Match>
+                <Event>Match Betting</Event>
+                <Selection>Stoke</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001223/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.08.2014 16:21:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Leicester v Everton</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Everton</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001224/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.08.2014 16:24:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Zenit St Petersburg v FC Ufa</Match>
+                <Event>Teams To Score</Event>
+                <Selection>Zenit St Petersburg Only</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001225/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.08.2014 16:26:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Toulouse v Lyon</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001226/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.08.2014 16:26:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lorient v Nice</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001227/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.08.2014 12:51:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>CSKA Moscow v Spartak Moscow</Match>
+                <Event>Highest Scoring Half</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001228/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.08.2014 13:20:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Arsenal Tula v Dynamo Moscow</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Dynamo Moscow -1 goal</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001229/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.08.2014 13:21:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rubin Kazan v Lokomotiv</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Lokomotiv</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001230/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.08.2014 13:25:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Marseille v Montpellier</Match>
+                <Event>Both Teams To Score and Under/Over 2.5 Goals</Event>
+                <Selection>Yes And Over 2.5 Goals</Selection>
+                <Koefficient>2.60</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001231/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.08.2014 13:25:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rostov v FK Krasnodar</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001232/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.08.2014 13:32:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Braga v Boavista</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Boavista +2 goals</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001233/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.08.2014 13:52:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Terek Grozni v Mordovia Saransk</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Terek Grozni</Selection>
+                <Koefficient>2.62</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.13</Returns>
+        <Reference>O/6351351/0001234/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.08.2014 19:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Standard Liege v Zenit St Petersburg</Match>
+                <Event>Match Betting</Event>
+                <Selection>Zenit St Petersburg</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001235/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.08.2014 19:24:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>NK Maribor v Celtic</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>NK Maribor</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001236/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.08.2014 19:25:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>AaB Aalborg v APOEL Nicosia</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>APOEL Nicosia</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001237/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.08.2014 19:26:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lille v Porto</Match>
+                <Event>Both Teams To Score and Under/Over 2.5 Goals</Event>
+                <Selection>Yes And Over 2.5 Goals</Selection>
+                <Koefficient>3.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001238/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.08.2014 18:28:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Dynamo Moscow v Omonia Nicosia</Match>
+                <Event>Teams To Score</Event>
+                <Selection>Dynamo Moscow Only</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001239/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.08.2014 18:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>PEC Zwolle v Sparta Prague</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001240/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.08.2014 18:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Partizan Belgrade v Neftchi Baku</Match>
+                <Event>Match Betting</Event>
+                <Selection>Partizan Belgrade</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0001241/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.08.2014 18:33:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Apollon Limassol v Lokomotiv</Match>
+                <Event>Apollon Limassol To Score</Event>
+                <Selection>No</Selection>
+                <Koefficient>2.30</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001242/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.08.2014 18:34:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Trabzonspor v Rostov</Match>
+                <Event>Trabzonspor Under/Over 1.5 Goals</Event>
+                <Selection>Over</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001243/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.08.2014 18:37:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Real Sociedad v FK Krasnodar</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001244/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.08.2014 18:40:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Terek Grozni v Arsenal Tula</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Terek Grozni</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001245/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>23.08.2014 13:45:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Zenit St Petersburg v Amkar</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Zenit St Petersburg</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001246/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>23.08.2014 13:48:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Hannover 96 v Schalke 04</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Schalke 04</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Hoffenheim v Augsburg</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Hoffenheim</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001247/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>23.08.2014 13:49:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chelsea v Leicester</Match>
+                <Event>Match Result and Both Teams To Score</Event>
+                <Selection>Chelsea</Selection>
+                <Koefficient>3.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001248/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>23.08.2014 13:51:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Everton v Arsenal</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Everton</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001249/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.08.2014 15:42:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Torpedo Moscow v FK Krasnodar</Match>
+                <Event>1st Half Torpedo Moscow Under/Over 0.5 Goals</Event>
+                <Selection>Over</Selection>
+                <Koefficient>2.87</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001250/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.08.2014 15:43:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Paderborn v Mainz 05</Match>
+                <Event>Match Betting</Event>
+                <Selection>Mainz 05</Selection>
+                <Koefficient>2.37</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001251/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.08.2014 15:47:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sunderland v Man Utd</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001252/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.08.2014 15:50:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Kuban v Lokomotiv</Match>
+                <Event>Highest Scoring Half</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001253/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.08.2014 17:22:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Zenit St Petersburg v Standard Liege</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Zenit St Petersburg</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001254/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.08.2014 18:06:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Celtic v NK Maribor</Match>
+                <Event>NK Maribor To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0001255/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.08.2014 18:16:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>APOEL Nicosia v AaB Aalborg</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001256/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>27.08.2014 20:14:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Malmo v Salzburg</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Malmo +2 goals</Selection>
+                <Koefficient>1.55</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Bayer Leverkusen v FC Copenhagen</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>FC Copenhagen +2 goals</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.03</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001257/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>27.08.2014 20:18:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Ludogorets v Steaua Bucharest</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001258/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>27.08.2014 20:19:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Athletic Bilbao v Napoli</Match>
+                <Event>Both Teams To Score and Under/Over 2.5 Goals</Event>
+                <Selection>Yes And Over 2.5 Goals</Selection>
+                <Koefficient>2.37</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.12</Returns>
+        <Reference>O/6351351/0001259/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.08.2014 17:36:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lokomotiv v Apollon Limassol</Match>
+                <Event>Teams To Score</Event>
+                <Selection>Lokomotiv Only</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001260/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.08.2014 17:38:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>FK Krasnodar v Real Sociedad</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>FK Krasnodar</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Omonia Nicosia v Dynamo Moscow</Match>
+                <Event>Dynamo Moscow Under/Over 1.5 Goals</Event>
+                <Selection>Over</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.03</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001261/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.08.2014 17:38:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Astra Giurgiu v Lyon</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Astra Giurgiu</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001262/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.08.2014 17:39:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Legia Warsaw v Aktobe</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Legia Warsaw -2 goals</Selection>
+                <Koefficient>3.60</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001263/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.08.2014 16:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Amkar v Spartak Moscow</Match>
+                <Event>Match Betting</Event>
+                <Selection>Spartak Moscow</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001264/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.08.2014 16:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Everton v Chelsea</Match>
+                <Event>1st Half Betting</Event>
+                <Selection>Draw</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001265/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.08.2014 16:31:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Athletic Bilbao v Levante</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Levante +2 goals</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001266/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.08.2014 8:19:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Mainz 05 v Hannover 96</Match>
+                <Event>Double Chance</Event>
+                <Selection>Hannover 96 Or Draw</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0001267/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.08.2014 8:19:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Villarreal v Barcelona</Match>
+                <Event>Match Result and Both Teams To Score</Event>
+                <Selection>Barcelona</Selection>
+                <Koefficient>3.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001268/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.08.2014 17:27:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lokomotiv v Zenit St Petersburg</Match>
+                <Event>Double Chance</Event>
+                <Selection>Lokomotiv Or Draw</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001269/F</Reference>
+    </Bet>
+</Data>
+

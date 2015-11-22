@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data>
+    <Bet>
+        <Date>01.12.2013 13:42:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Catania v AC Milan</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0000645/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.12.2013 13:42:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Catania v AC Milan</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Juventus v Udinese</Match>
+                <Event>Match Betting</Event>
+                <Selection>Juventus</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.12</Returns>
+        <Reference>O/6351351/0000646/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.12.2013 13:44:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Real Betis v Rayo Vallecano</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Athletic Bilbao v Barcelona</Match>
+                <Event>Match Result and Both Teams To Score</Event>
+                <Selection>Barcelona</Selection>
+                <Koefficient>3.10</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000647/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.12.2013 13:47:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Man City v Swansea</Match>
+                <Event>Match Betting</Event>
+                <Selection>Man City</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Tottenham v Man Utd</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0000648/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.12.2013 15:04:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Kuban v Lokomotiv</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Lokomotiv</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000649/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.12.2013 15:08:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Anzhi Makhachkala v Tomsk</Match>
+                <Event>Double Chance</Event>
+                <Selection>Tomsk Or Draw</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000650/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>03.12.2013 18:22:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Nantes v Valenciennes</Match>
+                <Event>Valenciennes To Score</Event>
+                <Selection>No</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000651/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>03.12.2013 18:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chernomorets O v Shakhtar Donetsk</Match>
+                <Event>Double Result</Event>
+                <Selection>Shakhtar Donetsk/Shakhtar Donetsk</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0000652/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.12.2013 14:04:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Anzhi Makhachkala v Kuban</Match>
+                <Event>Match Betting</Event>
+                <Selection>Kuban</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000653/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.12.2013 14:04:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lokomotiv v Rubin Kazan</Match>
+                <Event>Match Betting</Event>
+                <Selection>Lokomotiv</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000654/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.12.2013 14:05:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Livorno v AC Milan</Match>
+                <Event>Match Betting</Event>
+                <Selection>AC Milan</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Napoli v Udinese</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000655/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.12.2013 13:25:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Terek Grozni v Tomsk</Match>
+                <Event>Match Betting</Event>
+                <Selection>Terek Grozni</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0000656/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.12.2013 13:26:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rostov v Spartak Moscow</Match>
+                <Event>Match x Goals</Event>
+                <Selection>Spartak Moscow Win and Under 2.5 Goals</Selection>
+                <Koefficient>4.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.20</Returns>
+        <Reference>O/6351351/0000657/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.12.2013 13:28:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Fulham v Aston Villa</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Fulham</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Arsenal v Everton</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Arsenal</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0000658/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.12.2013 13:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Roma v Fiorentina</Match>
+                <Event>Double Chance</Event>
+                <Selection>Fiorentina Or Draw</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000659/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.12.2013 18:55:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Man Utd v Shakhtar Donetsk</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Real Sociedad v Bayer Leverkusen</Match>
+                <Event>Double Chance</Event>
+                <Selection>Real Sociedad Or Draw</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000660/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.12.2013 18:57:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Galatasaray v Juventus</Match>
+                <Event>2nd Half Over/Under Goals</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>FC Copenhagen v Real Madrid</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Real Madrid -1 goal</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000661/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.12.2013 18:59:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Olympiacos v Anderlecht</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Benfica v Paris Saint-Germain</Match>
+                <Event>Double Chance</Event>
+                <Selection>Paris Saint-Germain Or Draw</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000662/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.12.2013 19:00:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Viktoria Plzen v CSKA Moscow</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Bayern Munich v Man City</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 3.5</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000663/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.12.2013 22:29:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Marseille v Borussia Dortmund</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 3.5</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Barcelona v Celtic</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 3.5</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000664/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.12.2013 22:32:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>AC Milan v Ajax</Match>
+                <Event>Match Betting</Event>
+                <Selection>AC Milan</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Napoli v Arsenal</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Napoli</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000665/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.12.2013 22:37:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Austria Vienna v Zenit St Petersburg</Match>
+                <Event>Match Betting</Event>
+                <Selection>Zenit St Petersburg</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Chelsea v Steaua Bucharest</Match>
+                <Event>Steaua Bucharest To Score</Event>
+                <Selection>No</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000666/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.12.2013 20:36:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>PSV Eindhoven v Chernomorets O</Match>
+                <Event>Double Chance</Event>
+                <Selection>Chernomorets O Or Draw</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Fiorentina v Dnipro</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000667/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.12.2013 20:38:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Zulte-Waregem v Rubin Kazan</Match>
+                <Event>Double Chance</Event>
+                <Selection>Rubin Kazan Or Draw</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Tottenham v Anzhi Makhachkala</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Tottenham -1 goal</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Valencia v Kuban</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.14</Returns>
+        <Reference>O/6351351/0000668/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.12.2013 23:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Levante v Elche</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Levante</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000669/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.12.2013 12:51:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Man City v Arsenal</Match>
+                <Event>Match Betting</Event>
+                <Selection>Man City</Selection>
+                <Koefficient>1.83</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Chelsea v Crystal Palace</Match>
+                <Event>Match Betting</Event>
+                <Selection>Chelsea</Selection>
+                <Koefficient>1.20</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0000670/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.12.2013 12:53:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Barcelona v Villarreal</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 3.5</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Malaga v Getafe</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000671/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.12.2013 12:55:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Hoffenheim v Borussia Dortmund</Match>
+                <Event>Match Betting</Event>
+                <Selection>Borussia Dortmund</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Bayern Munich v Hamburg</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Bayern Munich -1 goal</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000672/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.12.2013 13:24:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sevilla v Athletic Bilbao</Match>
+                <Event>Double Chance</Event>
+                <Selection>Athletic Bilbao Or Draw</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0000673/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.12.2013 13:26:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Napoli v Inter Milan</Match>
+                <Event>Double Chance</Event>
+                <Selection>Inter Milan Or Draw</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000674/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.12.2013 13:27:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Tottenham v Liverpool</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Tottenham</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000675/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.12.2013 13:27:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Aston Villa v Man Utd</Match>
+                <Event>Match Betting</Event>
+                <Selection>Man Utd</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0000676/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.12.2013 13:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Norwich v Swansea</Match>
+                <Event>Match Betting</Event>
+                <Selection>Norwich</Selection>
+                <Koefficient>2.87</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000677/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.12.2013 13:57:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Valladolid v Celta Vigo</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Valladolid</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000678/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.12.2013 13:58:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>AC Milan v Roma</Match>
+                <Event>Double Chance</Event>
+                <Selection>Roma Or Draw</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Cherno More v Botev Plovdiv</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0000679/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.12.2013 23:03:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Guangzhou Yiyao v Bayern Munich</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 3.5</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000680/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.12.2013 21:25:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Eintracht Frankfurt v Augsburg</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Eintracht Frankfurt</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0000681/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.12.2013 21:25:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Elche v Malaga</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Malaga</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0000682/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.12.2013 13:09:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Braunschweig v Hoffenheim</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Borussia Dortmund v Hertha Berlin</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000683/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.12.2013 13:27:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Cagliari v Napoli</Match>
+                <Event>Match Betting</Event>
+                <Selection>Napoli</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000684/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.12.2013 13:30:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Villarreal v Sevilla</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Real Betis v Almeria</Match>
+                <Event>Match Betting</Event>
+                <Selection>Real Betis</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000685/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.12.2013 13:32:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Liverpool v Cardiff</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Liverpool</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Man Utd v West Ham</Match>
+                <Event>West Ham To Score</Event>
+                <Selection>No</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000686/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.12.2013 13:58:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Southampton v Tottenham</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Tottenham</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Swansea v Everton</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Everton</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.17</Returns>
+        <Reference>O/6351351/0000687/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.12.2013 13:59:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Inter Milan v AC Milan</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>AC Milan</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000688/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.12.2013 14:01:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Espanyol v Valladolid</Match>
+                <Event>Match Betting</Event>
+                <Selection>Espanyol</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Valencia v Real Madrid</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 3.5</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.18</Returns>
+        <Reference>O/6351351/0000689/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>23.12.2013 11:15:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Giannina v Aris Salonika</Match>
+                <Event>Match Betting</Event>
+                <Selection>Giannina</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000690/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>23.12.2013 11:16:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Arsenal v Chelsea</Match>
+                <Event>Double Chance</Event>
+                <Selection>Chelsea Or Draw</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000691/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.12.2013 12:07:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chelsea v Swansea</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Chelsea</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0000692/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.12.2013 12:08:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Aston Villa v Crystal Palace</Match>
+                <Event>Match Betting</Event>
+                <Selection>Aston Villa</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000693/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.12.2013 12:08:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Man City v Liverpool</Match>
+                <Event>Match Result and Both Teams To Score</Event>
+                <Selection>Man City</Selection>
+                <Koefficient>2.87</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.14</Returns>
+        <Reference>O/6351351/0000694/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.12.2013 12:09:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Tottenham v West Brom</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0000695/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.12.2013 12:09:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Everton v Sunderland</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0000696/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.12.2013 12:09:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>West Ham v Arsenal</Match>
+                <Event>Match Betting</Event>
+                <Selection>Arsenal</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000697/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>27.12.2013 9:08:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Kasimpasa v Akhisar Bld Spor</Match>
+                <Event>Match Betting</Event>
+                <Selection>Kasimpasa</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Genclerbirligi v Besiktas</Match>
+                <Event>Double Chance</Event>
+                <Selection>Genclerbirligi Or Draw</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000698/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.12.2013 14:04:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>West Ham v West Brom</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000699/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.12.2013 14:05:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Aston Villa v Swansea</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Aston Villa</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0000700/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.12.2013 14:06:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Hull v Fulham</Match>
+                <Event>Double Chance</Event>
+                <Selection>Fulham Or Draw</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000701/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.12.2013 14:07:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Cardiff v Sunderland</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Sunderland</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0000702/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>29.12.2013 12:13:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Everton v Southampton</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Newcastle v Arsenal</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000703/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>29.12.2013 12:15:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Tottenham v Stoke</Match>
+                <Event>Match Betting</Event>
+                <Selection>Tottenham</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Chelsea v Liverpool</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 3.5</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0000704/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.12.2013 0:51:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Belenenses v Beira Mar</Match>
+                <Event>Match Betting</Event>
+                <Selection>Belenenses</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0000705/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.12.2013 0:54:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Dunfermline v Rangers</Match>
+                <Event>Double Result</Event>
+                <Selection>Draw/Rangers</Selection>
+                <Koefficient>4.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000706/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.12.2013 18:15:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Qatar v Saudi Arabia</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Iraq v Oman</Match>
+                <Event>Double Chance</Event>
+                <Selection>Oman Or Draw</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000707/F</Reference>
+    </Bet>
+</Data>
+

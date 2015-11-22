@@ -1,0 +1,2554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data>
+    <Bet>
+        <Date>01.05.2013 1:48:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Gremio v Santa Fe</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Gremio</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Barcelona v Bayern Munich</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Resende v Cruzeiro</Match>
+                <Event>Match Betting</Event>
+                <Selection>Cruzeiro</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.37</Stake>
+        <Returns>0.66</Returns>
+        <Reference>O/6351351/0000195/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.05.2013 1:54:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Barcelona v Bayern Munich</Match>
+                <Event>Highest Scoring Half</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.15</Stake>
+        <Returns>0.29</Returns>
+        <Reference>O/6351351/0000196/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.05.2013 16:05:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Barcelona v Bayern Munich</Match>
+                <Event>Double Chance</Event>
+                <Selection>Bayern Munich Or Draw</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.15</Stake>
+        <Returns>0.29</Returns>
+        <Reference>O/6351351/0000197/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.05.2013 11:24:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chelsea v Basel</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Chelsea</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Benfica v Fenerbahce</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.20</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Slask Wroclaw v Legia Warsaw</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Legia Warsaw +2 goals</Selection>
+                <Koefficient>1.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.38</Stake>
+        <Returns>0.55</Returns>
+        <Reference>O/6351351/0000198/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.05.2013 14:06:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Benfica v Fenerbahce</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.33</Returns>
+        <Reference>O/6351351/0000199/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.05.2013 14:08:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chelsea v Basel</Match>
+                <Event>To Qualify</Event>
+                <Selection>Chelsea</Selection>
+                <Koefficient>1.06</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Benfica v Fenerbahce</Match>
+                <Event>To Qualify</Event>
+                <Selection>Benfica</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.37</Returns>
+        <Reference>O/6351351/0000200/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>03.05.2013 1:49:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Moreirense v Braga</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Braga</Selection>
+                <Koefficient>1.35</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Excelsior v Cambuur Leeuwarden</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Dordrecht v Almere</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.07</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.40</Stake>
+        <Returns>0.64</Returns>
+        <Reference>O/6351351/0000201/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>03.05.2013 16:37:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Zenit St Petersburg v Alania Vladikavkaz</Match>
+                <Event>Match Betting</Event>
+                <Selection>Zenit St Petersburg</Selection>
+                <Koefficient>1.18</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>CSKA Moscow v Terek Grozni</Match>
+                <Event>Match Betting</Event>
+                <Selection>CSKA Moscow</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Mordovia Saransk v Spartak Moscow</Match>
+                <Event>Match Betting</Event>
+                <Selection>Spartak Moscow</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.19</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000202/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.05.2013 0:55:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Zenit St Petersburg v Alania Vladikavkaz</Match>
+                <Event>Match Betting</Event>
+                <Selection>Zenit St Petersburg</Selection>
+                <Koefficient>1.18</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Swansea v Man City</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Man City</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.40</Stake>
+        <Returns>0.47</Returns>
+        <Reference>O/6351351/0000203/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.05.2013 1:08:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Norwich v Aston Villa</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Tottenham v Southampton</Match>
+                <Event>Match Betting</Event>
+                <Selection>Tottenham</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Fulham v Reading</Match>
+                <Event>Match Betting</Event>
+                <Selection>Fulham</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000204/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.05.2013 1:10:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Tottenham v Southampton</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Tottenham -1 goal</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>QPR v Arsenal</Match>
+                <Event>Match Betting</Event>
+                <Selection>Arsenal</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000205/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.05.2013 1:14:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Fiorentina v Roma</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>CSKA Moscow v Terek Grozni</Match>
+                <Event>Match Betting</Event>
+                <Selection>CSKA Moscow</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Zenit St Petersburg v Alania Vladikavkaz</Match>
+                <Event>Match Betting</Event>
+                <Selection>Zenit St Petersburg</Selection>
+                <Koefficient>1.18</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000206/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.05.2013 20:20:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>QPR v Arsenal</Match>
+                <Event>Match Betting</Event>
+                <Selection>Arsenal</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Borussia Dortmund v Bayern Munich</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.24</Stake>
+        <Returns>0.50</Returns>
+        <Reference>O/6351351/0000207/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.05.2013 2:06:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>PSV Eindhoven v NEC Nijmegen</Match>
+                <Event>Match Betting</Event>
+                <Selection>PSV Eindhoven</Selection>
+                <Koefficient>1.12</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Man Utd v Chelsea</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>AZ Alkmaar v PEC Zwolle</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.12</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.40</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000208/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.05.2013 2:07:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Kryliya Sovetov v Dynamo Moscow</Match>
+                <Event>Match Betting</Event>
+                <Selection>Dynamo Moscow</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.40</Returns>
+        <Reference>O/6351351/0000209/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.05.2013 2:11:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Jaro v HJK Helsinki</Match>
+                <Event>Match Betting</Event>
+                <Selection>HJK Helsinki</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Kaiserslautern v FSV Frankfurt</Match>
+                <Event>Match Betting</Event>
+                <Selection>Kaiserslautern</Selection>
+                <Koefficient>1.57</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.47</Returns>
+        <Reference>O/6351351/0000210/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.05.2013 12:44:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Man Utd v Chelsea</Match>
+                <Event>Match Betting</Event>
+                <Selection>Man Utd</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000211/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.05.2013 12:50:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Mallorca v Levante</Match>
+                <Event>Match Betting</Event>
+                <Selection>Mallorca</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000212/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.05.2013 12:51:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Real Zaragoza v Rayo Vallecano</Match>
+                <Event>Match Betting</Event>
+                <Selection>Real Zaragoza</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.44</Returns>
+        <Reference>O/6351351/0000213/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.05.2013 12:59:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sevilla v Espanyol</Match>
+                <Event>Match x Goals</Event>
+                <Selection>Sevilla Win and Over 2.5 Goals</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Barcelona v Real Betis</Match>
+                <Event>Match Betting</Event>
+                <Selection>Barcelona</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.54</Returns>
+        <Reference>O/6351351/0000214/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.05.2013 13:00:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Amkar v Lokomotiv</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Lokomotiv</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.17</Stake>
+        <Returns>0.27</Returns>
+        <Reference>O/6351351/0000215/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.05.2013 0:51:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bangor City v Prestatyn</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Odense BK v Midtjylland</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>1.00</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000216/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.05.2013 1:47:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Dynamo Bucharest v Ceahlaul P Neamt</Match>
+                <Event>Match Betting</Event>
+                <Selection>Dynamo Bucharest</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Salzburg v Pasching</Match>
+                <Event>Match Betting</Event>
+                <Selection>Salzburg</Selection>
+                <Koefficient>1.17</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.42</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000217/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.05.2013 17:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rostov v CSKA Moscow</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.33</Returns>
+        <Reference>O/6351351/0000218/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.05.2013 1:10:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chernomorets O v Dnipro</Match>
+                <Event>Match Betting</Event>
+                <Selection>Dnipro</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000219/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.05.2013 1:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Celta Vigo v Atletico Madrid</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000220/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.05.2013 1:22:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chelsea v Tottenham</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.33</Returns>
+        <Reference>O/6351351/0000221/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.05.2013 14:00:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Real Madrid v Malaga</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.07</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Fenerbahce v Eskisehirspor</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Fenerbahce</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Sevastopol v Shakhtar Donetsk</Match>
+                <Event>Match Betting</Event>
+                <Selection>Shakhtar Donetsk</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>1.00</Stake>
+        <Returns>1.23</Returns>
+        <Reference>O/6351351/0000222/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.05.2013 2:05:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Russia v France</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>Russia</Selection>
+                <Koefficient>1.01</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Czech Republic v Denmark</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>Czech Republic</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Slovakia v Latvia</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>Slovakia</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.16</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000223/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.05.2013 10:23:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Pandurii v FC Viitorul</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Pandurii</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>AZ Alkmaar v PSV Eindhoven</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.12</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>1.00</Stake>
+        <Returns>1.29</Returns>
+        <Reference>O/6351351/0000224/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.05.2013 12:55:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>HJK Helsinki v Mariehamn</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>HJK Helsinki -1 goal</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000225/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.05.2013 12:57:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>HJK Helsinki v Mariehamn</Match>
+                <Event>Match Betting</Event>
+                <Selection>HJK Helsinki</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>MyPa v Jaro</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>MyPa</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>JJK v VPS Vaasa</Match>
+                <Event>Double Chance</Event>
+                <Selection>JJK Or Draw</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000226/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.05.2013 17:48:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>JJK v VPS Vaasa</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>JJK</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>MyPa v Jaro</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>MyPa</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.23</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000227/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.05.2013 1:33:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Zorya v Kharkiv</Match>
+                <Event>Match Betting</Event>
+                <Selection>Kharkiv</Selection>
+                <Koefficient>1.18</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Guingamp v Lens</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Guingamp</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Lech Poznan v Widzew Lodz</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Lech Poznan</Selection>
+                <Koefficient>1.10</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>1.00</Stake>
+        <Returns>1.59</Returns>
+        <Reference>O/6351351/0000228/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.05.2013 1:40:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Norrkoping v Elfsborg</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Norrkoping +2 goals</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Bogota FC v CD Expreso Rojo</Match>
+                <Event>Match Betting Live</Event>
+                <Selection>Bogota FC</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>1.00</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000229/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.05.2013 14:05:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Levante v Real Zaragoza</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Real Zaragoza</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.20</Returns>
+        <Reference>O/6351351/0000230/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.05.2013 1:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Valladolid v Deportivo La Coruna</Match>
+                <Event>Valladolid Under/Over 1.5 Goals</Event>
+                <Selection>Over</Selection>
+                <Koefficient>2.30</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000231/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.05.2013 1:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Man City v Wigan</Match>
+                <Event>Double Result</Event>
+                <Selection>Man City/Man City</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000232/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.05.2013 1:13:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Osasuna v Getafe</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.33</Returns>
+        <Reference>O/6351351/0000233/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.05.2013 2:04:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Dynamo Kiev v Illychivets Mariupol</Match>
+                <Event>Match Betting</Event>
+                <Selection>Dynamo Kiev</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Juventus v Cagliari</Match>
+                <Event>Match Betting</Event>
+                <Selection>Juventus</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Catania v Pescara</Match>
+                <Event>Match Betting</Event>
+                <Selection>Catania</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Bayer Leverkusen v Hannover 96</Match>
+                <Event>Match Betting</Event>
+                <Selection>Bayer Leverkusen</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Schalke 04 v Stuttgart</Match>
+                <Event>Match Betting</Event>
+                <Selection>Schalke 04</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Bayern Munich v Augsburg</Match>
+                <Event>Match Betting</Event>
+                <Selection>Bayern Munich</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Greuther Furth v Freiburg</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Freiburg</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000234/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.05.2013 11:22:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Aston Villa v Chelsea</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.32</Returns>
+        <Reference>O/6351351/0000235/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.05.2013 11:27:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Porto v Benfica</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Espanyol v Real Madrid</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Marseille v Toulouse</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Marseille</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>1.00</Stake>
+        <Returns>1.79</Returns>
+        <Reference>O/6351351/0000236/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.05.2013 2:01:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lokomotiv v CSKA Moscow</Match>
+                <Event>Double Chance</Event>
+                <Selection>Lokomotiv Or Draw</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000237/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.05.2013 2:15:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rayo Vallecano v Valencia</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.33</Returns>
+        <Reference>O/6351351/0000238/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.05.2013 2:16:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Real Betis v Celta Vigo</Match>
+                <Event>Match Betting</Event>
+                <Selection>Real Betis</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.38</Returns>
+        <Reference>O/6351351/0000239/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.05.2013 2:17:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Everton v West Ham</Match>
+                <Event>Match Betting</Event>
+                <Selection>Everton</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Man Utd v Swansea</Match>
+                <Event>Match Betting</Event>
+                <Selection>Man Utd</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.40</Returns>
+        <Reference>O/6351351/0000240/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.05.2013 2:19:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sunderland v Southampton</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Sunderland</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Norwich v West Brom</Match>
+                <Event>Match Betting</Event>
+                <Selection>Norwich</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.14</Stake>
+        <Returns>0.32</Returns>
+        <Reference>O/6351351/0000241/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.05.2013 2:26:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>USA v Germany</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>USA</Selection>
+                <Koefficient>1.45</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Canada v Czech Republic</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>Canada</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Slovakia v Russia</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>Russia</Selection>
+                <Koefficient>1.35</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Norway v Switzerland</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>Switzerland</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.47</Returns>
+        <Reference>O/6351351/0000242/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.05.2013 11:09:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Fenerbahce v Galatasaray</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.17</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Utrecht v Heracles</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Utrecht</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Twente v PSV Eindhoven</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.06</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>1.00</Stake>
+        <Returns>1.69</Returns>
+        <Reference>O/6351351/0000243/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.05.2013 1:17:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bursaspor v Eskisehirspor</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Bursaspor</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Real Sociedad v Granada</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Real Sociedad</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>1.00</Stake>
+        <Returns>1.00</Returns>
+        <Reference>O/6351351/0000244/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.05.2013 2:15:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Denmark v Sweden</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>Sweden</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Latvia v Finland</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>Finland</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Czech Republic v Norway</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>Czech Republic</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Belarus v Switzerland</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>Switzerland</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Slovakia v USA</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>USA</Selection>
+                <Koefficient>1.55</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>France v Germany</Match>
+                <Event>60 Minutes Betting</Event>
+                <Selection>Germany</Selection>
+                <Koefficient>1.55</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.09</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000245/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.05.2013 2:21:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Arsenal v Wigan</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Troyes v Bordeaux</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Troyes +2 goals</Selection>
+                <Koefficient>1.17</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.90</Stake>
+        <Returns>1.17</Returns>
+        <Reference>O/6351351/0000246/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.05.2013 2:04:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Beroe Stara Zagora v Levski Sofia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Levski Sofia</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>GAIS v Ljungskile</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Benfica v Chelsea</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Chelsea +2 goals</Selection>
+                <Koefficient>1.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.80</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000247/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.05.2013 2:14:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Benfica v Chelsea</Match>
+                <Event>Match Betting</Event>
+                <Selection>Draw</Selection>
+                <Koefficient>3.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000248/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.05.2013 2:14:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Benfica v Chelsea</Match>
+                <Event>To Lift The Trophy</Event>
+                <Selection>Benfica</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000249/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.05.2013 2:14:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Benfica v Chelsea</Match>
+                <Event>Highest Scoring Half</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.41</Returns>
+        <Reference>O/6351351/0000250/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.05.2013 2:14:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Benfica v Chelsea</Match>
+                <Event>1st Half Betting</Event>
+                <Selection>Draw</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.39</Returns>
+        <Reference>O/6351351/0000251/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.05.2013 2:14:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Benfica v Chelsea</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.36</Returns>
+        <Reference>O/6351351/0000252/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.05.2013 1:09:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>MVV Maastricht v Volendam</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Heerenveen v Utrecht</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.12</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>1.00</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000253/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.05.2013 1:24:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Kevin Anderson v Tomas Berdych</Match>
+                <Event>Match Betting</Event>
+                <Selection>Tomas Berdych</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Novak Djokovic v Alexandr Dolgopolov</Match>
+                <Event>Match Betting</Event>
+                <Selection>Novak Djokovic</Selection>
+                <Koefficient>1.08</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Juan Martin del Potro v Benoit Paire</Match>
+                <Event>Match Betting</Event>
+                <Selection>Juan Martin del Potro</Selection>
+                <Koefficient>1.17</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Ernests Gulbis v Rafael Nadal</Match>
+                <Event>Match Betting</Event>
+                <Selection>Rafael Nadal</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Gilles Simon v Roger Federer</Match>
+                <Event>Match Betting</Event>
+                <Selection>Roger Federer</Selection>
+                <Koefficient>1.17</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Serena Williams v Dominika Cibulkova</Match>
+                <Event>Match Betting</Event>
+                <Selection>Serena Williams</Selection>
+                <Koefficient>1.06</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Ayumi Morita v Victoria Azarenka</Match>
+                <Event>Match Betting</Event>
+                <Selection>Victoria Azarenka</Selection>
+                <Koefficient>1.06</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Sloane Stephens v Maria Sharapova</Match>
+                <Event>Match Betting</Event>
+                <Selection>Maria Sharapova</Selection>
+                <Koefficient>1.08</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>David Ferrer v Philipp Kohlschreiber</Match>
+                <Event>Match Betting</Event>
+                <Selection>David Ferrer</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000254/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.05.2013 1:40:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Russia v USA</Match>
+                <Event>To Qualify</Event>
+                <Selection>Russia</Selection>
+                <Koefficient>1.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Finland v Slovakia</Match>
+                <Event>To Qualify</Event>
+                <Selection>Finland</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Canada v Sweden</Match>
+                <Event>To Qualify</Event>
+                <Selection>Canada</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.07</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000255/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.05.2013 1:40:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Kapfenberg v FC Lustenau</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Real Madrid v Atletico Madrid</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Real Madrid</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>1.00</Stake>
+        <Returns>1.14</Returns>
+        <Reference>O/6351351/0000256/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.05.2013 1:42:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Real Madrid v Atletico Madrid</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>No</Selection>
+                <Koefficient>2.37</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000257/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.05.2013 19:30:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Real Madrid v Atletico Madrid</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 3.5</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.30</Returns>
+        <Reference>O/6351351/0000258/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.05.2013 2:51:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>CSKA Moscow v Kuban</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>CSKA Moscow</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Pandurii v FC Brasov</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Pandurii</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>1.00</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000259/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.05.2013 2:52:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Getafe v Valencia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Valencia</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.36</Returns>
+        <Reference>O/6351351/0000260/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.05.2013 2:53:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sevilla v Real Sociedad</Match>
+                <Event>Match Betting</Event>
+                <Selection>Sevilla</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000261/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.05.2013 16:59:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Borussia Dortmund v Hoffenheim</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.07</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Stuttgart v Mainz 05</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Hannover 96 v Fortuna Dusseldorf</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Nurnberg v Werder Bremen</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Augsburg v Greuther Furth</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.20</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Hamburg v Bayer Leverkusen</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Eintracht Frankfurt v Wolfsburg</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Borussia M'gladbach v Bayern Munich</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Freiburg v Schalke 04</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000262/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>19.05.2013 1:07:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Liverpool v QPR</Match>
+                <Event>Match Betting</Event>
+                <Selection>Liverpool</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Tottenham v Sunderland</Match>
+                <Event>Match Betting</Event>
+                <Selection>Tottenham</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>West Ham v Reading</Match>
+                <Event>Match Betting</Event>
+                <Selection>West Ham</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Man City v Norwich</Match>
+                <Event>Match Betting</Event>
+                <Selection>Man City</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000263/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>19.05.2013 1:11:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Liverpool v QPR</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Liverpool</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.43</Returns>
+        <Reference>O/6351351/0000264/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>19.05.2013 1:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Newcastle v Arsenal</Match>
+                <Event>Match x Goals</Event>
+                <Selection>Arsenal Win and Over 2.5 Goals</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.20</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000265/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>19.05.2013 1:19:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chelsea v Everton</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Everton +3 goals</Selection>
+                <Koefficient>1.08</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Tavriya Simferopol v Dynamo Kiev</Match>
+                <Event>Match Betting</Event>
+                <Selection>Dynamo Kiev</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Benfica v Moreirense</Match>
+                <Event>Match Betting</Event>
+                <Selection>Benfica</Selection>
+                <Koefficient>1.17</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>6.00</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000266/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>19.05.2013 21:41:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Real Zaragoza v Athletic Bilbao</Match>
+                <Event>Draw No Bet Live</Event>
+                <Selection>Real Zaragoza</Selection>
+                <Koefficient>1.08</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Siena v AC Milan</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>AC Milan</Selection>
+                <Koefficient>1.08</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Pescara v Fiorentina</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Fiorentina</Selection>
+                <Koefficient>1.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Benfica v Moreirense</Match>
+                <Event>Draw No Bet Live</Event>
+                <Selection>Benfica</Selection>
+                <Koefficient>1.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Pacos Ferreira v Porto</Match>
+                <Event>Draw No Bet Live</Event>
+                <Selection>Porto</Selection>
+                <Koefficient>1.10</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Barcelona v Valladolid SETTLED</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 3.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.13</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000267/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.05.2013 2:40:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rosenborg v Molde</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Rosenborg</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Haugesund v Sogndal</Match>
+                <Event>Double Chance</Event>
+                <Selection>Haugesund Or Draw</Selection>
+                <Koefficient>1.10</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Basel v Grasshopper</Match>
+                <Event>Double Chance</Event>
+                <Selection>Basel Or Draw</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000268/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.05.2013 20:09:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Anzhi Makhachkala v Lokomotiv</Match>
+                <Event>Draw No Bet Live</Event>
+                <Selection>Lokomotiv</Selection>
+                <Koefficient>3.50</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000269/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.05.2013 0:55:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Slovan Liberec v Teplice</Match>
+                <Event>Double Chance</Event>
+                <Selection>Slovan Liberec Or Draw</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Stjarnan v Valur</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Hartberg v SCR Altach</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>SCR Altach +2 goals</Selection>
+                <Koefficient>1.05</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.35</Returns>
+        <Reference>O/6351351/0000270/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.05.2013 1:40:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Fenerbahce v Trabzonspor</Match>
+                <Event>Double Chance</Event>
+                <Selection>Fenerbahce Or Draw</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>A.E.L. v Apollon Limassol</Match>
+                <Event>Match Betting</Event>
+                <Selection>A.E.L.</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Rudar Velenje v NK Maribor</Match>
+                <Event>Match Betting</Event>
+                <Selection>NK Maribor</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000271/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.05.2013 12:35:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Fenerbahce v Trabzonspor</Match>
+                <Event>Match Betting</Event>
+                <Selection>Fenerbahce</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.48</Returns>
+        <Reference>O/6351351/0000272/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.05.2013 18:17:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Shakhtar Donetsk v Chernomorets O</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.38</Returns>
+        <Reference>O/6351351/0000273/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.05.2013 18:17:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Shakhtar Donetsk v Chernomorets O</Match>
+                <Event>1st Half Over/Under Goals</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000274/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.05.2013 23:54:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Elfsborg v Brommapojkarna</Match>
+                <Event>Match Betting</Event>
+                <Selection>Elfsborg</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Hoffenheim v Kaiserslautern</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Hoffenheim</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Twente v Utrecht</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Twente</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>HJK Helsinki v VPS Vaasa</Match>
+                <Event>Match Betting</Event>
+                <Selection>HJK Helsinki</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Fluminense RJ v Olimpia</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Fluminense RJ</Selection>
+                <Koefficient>1.12</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000275/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>23.05.2013 0:08:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Piast Gliwice v Korona</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Piast Gliwice</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.25</Returns>
+        <Reference>O/6351351/0000276/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.05.2013 1:09:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chelsea v Man City</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Boca Juniors v Newells</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>No</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Tijuana v Atletico-MG</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000277/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.05.2013 1:16:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bohemians v St Patricks</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>St Patricks</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Vaslui v Otelul Galati</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Vaslui</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.38</Returns>
+        <Reference>O/6351351/0000278/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.05.2013 1:18:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Shamrock Rovers v Shelbourne</Match>
+                <Event>Match Betting</Event>
+                <Selection>Shamrock Rovers</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Dundalk v UCD</Match>
+                <Event>Match Betting</Event>
+                <Selection>Dundalk</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Widzew Lodz v Legia Warsaw</Match>
+                <Event>Match Betting</Event>
+                <Selection>Legia Warsaw</Selection>
+                <Koefficient>1.55</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000279/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.05.2013 14:58:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Stromsgodset v Aalesund</Match>
+                <Event>Match Betting</Event>
+                <Selection>Stromsgodset</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Gaz Metan Medias v Rapid Bucharest</Match>
+                <Event>Match Betting</Event>
+                <Selection>Gaz Metan Medias</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000280/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.05.2013 1:52:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Borussia Dortmund v Bayern Munich</Match>
+                <Event>Anytime Goalscorer</Event>
+                <Selection>Robert Lewandowski</Selection>
+                <Koefficient>2.50</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000281/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.05.2013 1:54:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Borussia Dortmund v Bayern Munich</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.42</Returns>
+        <Reference>O/6351351/0000282/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.05.2013 1:54:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Borussia Dortmund v Bayern Munich</Match>
+                <Event>Double Chance</Event>
+                <Selection>Borussia Dortmund Or Draw</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000283/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.05.2013 11:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Mirandes v Las Palmas</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Las Palmas</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000284/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.05.2013 11:53:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Borussia Dortmund v Bayern Munich</Match>
+                <Event>Borussia Dortmund Under/Over 1.5 Goals</Event>
+                <Selection>Over</Selection>
+                <Koefficient>3.25</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000285/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.05.2013 0:48:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lokomotiv v Mordovia Saransk</Match>
+                <Event>Match Betting</Event>
+                <Selection>Lokomotiv</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Amkar v Zenit St Petersburg</Match>
+                <Event>Double Chance</Event>
+                <Selection>Amkar Or Draw</Selection>
+                <Koefficient>1.57</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.57</Returns>
+        <Reference>O/6351351/0000286/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.05.2013 0:50:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Athletic Bilbao v Levante</Match>
+                <Event>Match Betting</Event>
+                <Selection>Athletic Bilbao</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Atletico Madrid v Mallorca</Match>
+                <Event>Match Betting</Event>
+                <Selection>Atletico Madrid</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000287/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.05.2013 0:50:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Real Sociedad v Real Madrid</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Real Sociedad</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.25</Returns>
+        <Reference>O/6351351/0000288/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.05.2013 0:52:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Espanyol v Barcelona</Match>
+                <Event>Match x Goals</Event>
+                <Selection>Barcelona Win and Over 2.5 Goals</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000289/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.05.2013 12:24:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Kuban v Anzhi Makhachkala</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Anzhi Makhachkala +3 goals</Selection>
+                <Koefficient>1.10</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Espanyol v Barcelona</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Barcelona</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Getafe v Rayo Vallecano</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Rayo Vallecano +2 goals</Selection>
+                <Koefficient>1.18</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.42</Returns>
+        <Reference>O/6351351/0000290/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.05.2013 12:30:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rostov v CSKA Moscow</Match>
+                <Event>1st Half Over/Under Goals</Event>
+                <Selection>Under 0.5</Selection>
+                <Koefficient>2.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000291/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>27.05.2013 8:34:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Villarreal v Xerez</Match>
+                <Event>Match Betting</Event>
+                <Selection>Villarreal</Selection>
+                <Koefficient>1.17</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Hammarby v Jonkopings Sodra</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Hammarby</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000292/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>29.05.2013 1:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>England v Republic of Ireland</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Republic of Ireland +2 goals</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.24</Stake>
+        <Returns>0.37</Returns>
+        <Reference>O/6351351/0000293/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>29.05.2013 22:18:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Germany v Ecuador</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Germany</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.35</Returns>
+        <Reference>O/6351351/0000294/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.05.2013 1:16:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Newells v Boca Juniors</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Newells</Selection>
+                <Koefficient>1.35</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.25</Returns>
+        <Reference>O/6351351/0000295/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.05.2013 1:27:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Olimpia v Fluminense RJ</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Fluminense RJ +1 goal</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000296/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.05.2013 1:38:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Sao Paulo v Vasco da Gama</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Botafogo RJ v Santos</Match>
+                <Event>Match Betting</Event>
+                <Selection>Botafogo RJ</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.37</Returns>
+        <Reference>O/6351351/0000297/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.05.2013 1:45:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rostov v SKA-Energiya</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Rostov</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Austria Vienna v Pasching</Match>
+                <Event>Match Betting</Event>
+                <Selection>Austria Vienna</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000298/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.05.2013 20:38:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rostov v SKA-Energiya</Match>
+                <Event>Match Betting Live</Event>
+                <Selection>Rostov</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.49</Stake>
+        <Returns>0.71</Returns>
+        <Reference>O/6351351/0000299/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>31.05.2013 18:34:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Academia Chisinau v Speranta</Match>
+                <Event>Match Betting</Event>
+                <Selection>Academia Chisinau</Selection>
+                <Koefficient>1.35</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Sillamae Kalev v Levadia Tallinn</Match>
+                <Event>Match Betting</Event>
+                <Selection>Levadia Tallinn</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Ferencvaros v Kaposvari Rakoczi</Match>
+                <Event>Match Betting</Event>
+                <Selection>Ferencvaros</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>St Patricks v UCD</Match>
+                <Event>Match Betting</Event>
+                <Selection>St Patricks</Selection>
+                <Koefficient>1.20</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Shelbourne v Bandon</Match>
+                <Event>Match Betting</Event>
+                <Selection>Shelbourne</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Tolka Rovers v College Corinthians FC</Match>
+                <Event>Match Betting</Event>
+                <Selection>Tolka Rovers</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Bray v Mervue</Match>
+                <Event>Match Betting</Event>
+                <Selection>Bray</Selection>
+                <Koefficient>1.57</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Salthill Devon v Shamrock Rovers</Match>
+                <Event>Match Betting</Event>
+                <Selection>Shamrock Rovers</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>FC Daugava Daugavpils v Ilukstes BJSS</Match>
+                <Event>Match Betting</Event>
+                <Selection>FC Daugava Daugavpils</Selection>
+                <Koefficient>1.17</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Zimbru Chisinau v FC Tiraspol</Match>
+                <Event>Match Betting</Event>
+                <Selection>FC Tiraspol</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>JFK Saldus v Kuldigas NSS</Match>
+                <Event>Match Betting</Event>
+                <Selection>Kuldigas NSS</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Italy v San Marino</Match>
+                <Event>Match Betting</Event>
+                <Selection>Italy</Selection>
+                <Koefficient>1.01</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.02</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000300/F</Reference>
+    </Bet>
+</Data>
+

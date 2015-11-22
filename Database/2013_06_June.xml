@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data>
+    <Bet>
+        <Date>01.06.2013 10:14:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>CSKA Moscow v Anzhi Makhachkala</Match>
+                <Event>1st Half Betting</Event>
+                <Selection>Draw</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000301/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.06.2013 11:51:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Deportivo La Coruna v Real Sociedad</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Sevilla v Valencia</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000302/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.06.2013 11:54:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Barcelona v Malaga</Match>
+                <Event>1st Half Over/Under Goals</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Real Madrid v Osasuna</Match>
+                <Event>1st Half Over/Under Goals</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.19</Stake>
+        <Returns>0.55</Returns>
+        <Reference>O/6351351/0000303/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.06.2013 11:55:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Rayo Vallecano v Athletic Bilbao</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.38</Returns>
+        <Reference>O/6351351/0000304/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.06.2013 11:57:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Celta Vigo v Espanyol</Match>
+                <Event>Match Betting</Event>
+                <Selection>Celta Vigo</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Mallorca v Valladolid</Match>
+                <Event>Match Betting</Event>
+                <Selection>Mallorca</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Real Zaragoza v Atletico Madrid</Match>
+                <Event>Match Betting</Event>
+                <Selection>Real Zaragoza</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000305/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.06.2013 12:35:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>CSKA Moscow v Anzhi Makhachkala</Match>
+                <Event>Highest Scoring Half</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000306/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.06.2013 17:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Nieciecza v Olimpia Grudziadz</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Olimpia Grudziadz +2 goals</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.36</Returns>
+        <Reference>O/6351351/0000307/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.06.2013 17:32:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Cracovia Krakow v Tychy</Match>
+                <Event>Match Betting</Event>
+                <Selection>Cracovia Krakow</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Landskrona v Brage</Match>
+                <Event>Double Chance</Event>
+                <Selection>Landskrona Or Draw</Selection>
+                <Koefficient>1.18</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Helsingborg v Atvidaberg</Match>
+                <Event>Match Betting</Event>
+                <Selection>Helsingborg</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.17</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000308/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>01.06.2013 17:36:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bayern Munich v Stuttgart</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Bayern Munich -1 goal</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.25</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000309/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.06.2013 12:33:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>USA v Germany</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 3.5</Selection>
+                <Koefficient>2.62</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.26</Returns>
+        <Reference>O/6351351/0000310/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.06.2013 12:33:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Brazil v England</Match>
+                <Event>Brazil To Score Both Halves</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.30</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000311/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.06.2013 12:43:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Atletico-MG v Sao Paulo</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Sao Paulo</Selection>
+                <Koefficient>2.37</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0000312/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.06.2013 12:58:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Pogon Szczecin v Polonia Warsaw</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Polonia Warsaw +3 goals</Selection>
+                <Koefficient>1.07</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Barcelona B v Villarreal</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Villarreal</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Brazil v England</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>England +3 goals</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.15</Returns>
+        <Reference>O/6351351/0000313/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>02.06.2013 19:18:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lahti v TPS Turku</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Lahti</Selection>
+                <Koefficient>2.05</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000314/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>03.06.2013 11:03:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>SKA-Energiya v Rostov</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>SKA-Energiya +2 goals</Selection>
+                <Koefficient>1.12</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Sweden v FYR Macedonia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Sweden</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.14</Returns>
+        <Reference>O/6351351/0000315/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.06.2013 16:20:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Poland v Liechtenstein</Match>
+                <Event>Match Betting</Event>
+                <Selection>Poland</Selection>
+                <Koefficient>1.10</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Jamaica v Mexico</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Mexico</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.14</Returns>
+        <Reference>O/6351351/0000316/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.06.2013 16:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Kazakhstan v Bulgaria</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000317/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.06.2013 16:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Oman v Iraq</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Iraq</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.10</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000318/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>04.06.2013 22:42:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>TSV 1860 Munchen II v SPVGG Elversberg 07</Match>
+                <Event>Match Betting Live</Event>
+                <Selection>TSV 1860 Munchen II</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.29</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000319/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.06.2013 11:36:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Psis Semarang v Persitema</Match>
+                <Event>Match Betting</Event>
+                <Selection>Psis Semarang</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Denmark v Georgia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Denmark</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Kenya v Nigeria</Match>
+                <Event>Double Chance</Event>
+                <Selection>Nigeria Or Draw</Selection>
+                <Koefficient>1.17</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.15</Returns>
+        <Reference>O/6351351/0000320/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.06.2013 15:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Jelena Jankovic v Maria Sharapova</Match>
+                <Event>Total Match Games</Event>
+                <Selection>Over</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.14</Returns>
+        <Reference>O/6351351/0000321/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.06.2013 15:19:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>England U21 v Italy U21</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.13</Returns>
+        <Reference>O/6351351/0000322/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.06.2013 15:34:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Uruguay v France</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Uruguay</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.14</Returns>
+        <Reference>O/6351351/0000323/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.06.2013 18:17:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Colombia Youth v Congo DR Youth</Match>
+                <Event>Match Betting</Event>
+                <Selection>Colombia Youth</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Sao Paulo v Goias</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Sao Paulo</Selection>
+                <Koefficient>1.12</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Spain U19 v Poland U19</Match>
+                <Event>Match Betting</Event>
+                <Selection>Spain U19</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000324/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.06.2013 18:59:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Cruzeiro v Corinthians</Match>
+                <Event>Double Chance</Event>
+                <Selection>Corinthians Or Draw</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000325/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.06.2013 21:36:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Spain U21 v Russia U21</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Spain U21</Selection>
+                <Koefficient>2.62</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.21</Returns>
+        <Reference>O/6351351/0000326/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.06.2013 2:14:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Vasco da Gama v Atletico-MG</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Atletico-MG</Selection>
+                <Koefficient>1.57</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000327/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.06.2013 2:16:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Portuguesa  SP v Internacional</Match>
+                <Event>Match Betting</Event>
+                <Selection>Draw</Selection>
+                <Koefficient>3.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.24</Returns>
+        <Reference>O/6351351/0000328/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.06.2013 12:09:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Holland U21 v Germany U21</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Poland U21 v Malta U21</Match>
+                <Event>Match Betting</Event>
+                <Selection>Poland U21</Selection>
+                <Koefficient>1.09</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Lithuania U21 v San Marino U21</Match>
+                <Event>Match Betting</Event>
+                <Selection>Lithuania U21</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.12</Returns>
+        <Reference>O/6351351/0000329/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.06.2013 14:48:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Serena Williams v Sara Errani</Match>
+                <Event>Total Match Games</Event>
+                <Selection>Over</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000330/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.06.2013 15:10:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Victoria Azarenka v Maria Sharapova</Match>
+                <Event>Number Of Sets In Match</Event>
+                <Selection>3 Sets</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.17</Returns>
+        <Reference>O/6351351/0000331/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.06.2013 15:11:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Holland U21 v Germany U21</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000332/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2013 1:23:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Montenegro v Ukraine</Match>
+                <Event>Double Chance</Event>
+                <Selection>Ukraine Or Draw</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.12</Returns>
+        <Reference>O/6351351/0000333/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2013 1:24:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Austria v Sweden</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Sweden</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Croatia v Scotland</Match>
+                <Event>Match Betting</Event>
+                <Selection>Croatia</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000334/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2013 1:44:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Moldova v Poland</Match>
+                <Event>To Win To Nil</Event>
+                <Selection>Poland</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000335/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2013 1:45:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lithuania v Greece</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.12</Returns>
+        <Reference>O/6351351/0000336/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2013 1:48:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Liechtenstein v Slovakia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Slovakia</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Belgium v Serbia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Belgium</Selection>
+                <Koefficient>1.57</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000337/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2013 1:49:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Armenia v Malta</Match>
+                <Event>Match Betting</Event>
+                <Selection>Armenia</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Moldova v Poland</Match>
+                <Event>Match Betting</Event>
+                <Selection>Poland</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000338/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2013 2:01:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Azerbaijan v Luxembourg</Match>
+                <Event>Match Betting</Event>
+                <Selection>Azerbaijan</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Republic of Ireland v Faroe Islands</Match>
+                <Event>Match Betting</Event>
+                <Selection>Republic of Ireland</Selection>
+                <Koefficient>1.10</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Lithuania v Greece</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Czech Republic v Italy</Match>
+                <Event>Double Chance</Event>
+                <Selection>Italy Or Draw</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000339/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2013 2:18:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Liechtenstein v Slovakia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Slovakia</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Moldova v Poland</Match>
+                <Event>Match Betting</Event>
+                <Selection>Poland</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Portugal v Russia</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Russia +3 goals</Selection>
+                <Koefficient>1.02</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000340/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2013 11:34:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Liechtenstein v Slovakia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Slovakia</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Moldova v Poland</Match>
+                <Event>Match Betting</Event>
+                <Selection>Poland</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Croatia v Scotland</Match>
+                <Event>Match Betting</Event>
+                <Selection>Croatia</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Belgium v Serbia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Belgium</Selection>
+                <Koefficient>1.57</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Republic of Ireland v Faroe Islands</Match>
+                <Event>Match Betting</Event>
+                <Selection>Republic of Ireland</Selection>
+                <Koefficient>1.08</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Latvia v Bosnia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Bosnia</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Azerbaijan v Luxembourg</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Azerbaijan</Selection>
+                <Koefficient>1.18</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000341/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2013 15:36:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bolivia v Venezuela</Match>
+                <Event>Match Betting</Event>
+                <Selection>Bolivia</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000342/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2013 15:36:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Jamaica v USA</Match>
+                <Event>Match Betting</Event>
+                <Selection>USA</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.16</Returns>
+        <Reference>O/6351351/0000343/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2013 15:36:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Panama v Mexico</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.08</Stake>
+        <Returns>0.12</Returns>
+        <Reference>O/6351351/0000344/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.06.2013 12:42:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>England U21 v Norway U21</Match>
+                <Event>Match Betting</Event>
+                <Selection>England U21</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.07</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000345/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.06.2013 12:54:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Villarreal v Almeria</Match>
+                <Event>Match Betting</Event>
+                <Selection>Villarreal</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.07</Stake>
+        <Returns>0.13</Returns>
+        <Reference>O/6351351/0000346/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.06.2013 12:56:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Girona v Real Madrid Castilla</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 3.5</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.07</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0000347/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.06.2013 12:59:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Alcorcon v Sabadell</Match>
+                <Event>Match Betting</Event>
+                <Selection>Alcorcon</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Italy U21 v Israel U21</Match>
+                <Event>Match Betting</Event>
+                <Selection>Italy U21</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Racing Santander v Hercules</Match>
+                <Event>Match Betting</Event>
+                <Selection>Racing Santander</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.14</Returns>
+        <Reference>O/6351351/0000348/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.06.2013 13:26:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Switzerland v Cyprus</Match>
+                <Event>Match Betting</Event>
+                <Selection>Switzerland</Selection>
+                <Koefficient>1.17</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>St Patricks v Limerick</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>St Patricks</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Gambia v Ivory Coast</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Ivory Coast</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.07</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0000349/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.06.2013 11:40:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Cork City v Shamrock Rovers</Match>
+                <Event>Double Chance</Event>
+                <Selection>Shamrock Rovers Or Draw</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Brazil v France</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>France +2 goals</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000350/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.06.2013 15:32:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Holland U21 v Russia U21</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Holland U21</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Numancia v Cordoba</Match>
+                <Event>Numancia To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.18</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Germany U21 v Spain U21</Match>
+                <Event>Double Chance</Event>
+                <Selection>Spain U21 Or Draw</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.12</Returns>
+        <Reference>O/6351351/0000351/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.06.2013 15:37:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Carpi v Lecce</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000352/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.06.2013 15:38:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Pisa v Latina Calcio</Match>
+                <Event>Match Betting</Event>
+                <Selection>Pisa</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000353/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.06.2013 15:41:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Skovde v Sylvia</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000354/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.06.2013 15:44:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Guinea v Mozambique</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Mozambique +2 goals</Selection>
+                <Koefficient>1.55</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Mali v Rwanda</Match>
+                <Event>Match Betting</Event>
+                <Selection>Mali</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000355/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.06.2013 16:01:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Coritiba v Nautico</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000356/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.06.2013 20:49:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Germany U21 v Spain U21</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000357/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>09.06.2013 21:06:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Fluminense RJ v Goias</Match>
+                <Event>Double Chance</Event>
+                <Selection>Goias Or Draw</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.06</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000358/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.06.2013 18:32:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Follo v Fredrikstad</Match>
+                <Event>Double Chance</Event>
+                <Selection>Follo Or Draw</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000359/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.06.2013 18:49:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Landskrona v Orebro</Match>
+                <Event>Double Chance</Event>
+                <Selection>Orebro Or Draw</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Drogheda v Dundalk</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Dundalk +2 goals</Selection>
+                <Koefficient>1.12</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000360/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.06.2013 18:55:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Croatia v Portugal</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000361/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.06.2013 19:40:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Cyprus U19 v Norway U19</Match>
+                <Event>Match Betting</Event>
+                <Selection>Norway U19</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Croatia U19 v Spain U19</Match>
+                <Event>Match Betting</Event>
+                <Selection>Spain U19</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000362/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.06.2013 13:10:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>South Korea v Uzbekistan</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>China v Holland</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.14</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Norway U21 v Italy U21</Match>
+                <Event>Double Chance</Event>
+                <Selection>Italy U21 Or Draw</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000363/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.06.2013 13:21:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Oeste v Sao Caetano</Match>
+                <Event>Match Betting</Event>
+                <Selection>Draw</Selection>
+                <Koefficient>3.30</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000364/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.06.2013 13:27:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Venezuela v Uruguay</Match>
+                <Event>Uruguay To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Ecuador v Argentina</Match>
+                <Event>Ecuador To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Colombia v Peru</Match>
+                <Event>Match Betting</Event>
+                <Selection>Colombia</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.04</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0000365/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.06.2013 13:35:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Denmark v Armenia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Denmark</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Sweden v Faroe Islands</Match>
+                <Event>Match Betting</Event>
+                <Selection>Sweden</Selection>
+                <Koefficient>1.02</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>USA v Panama</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>USA</Selection>
+                <Koefficient>1.12</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000366/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.06.2013 12:58:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Spain U21 v Holland U21</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000367/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.06.2013 14:53:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Malawi v Kenya</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 3.5</Selection>
+                <Koefficient>1.11</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Russia U21 v Germany U21</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Germany U21</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.04</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000368/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.06.2013 23:09:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Santos v Atletico-MG</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Atletico-MG</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000369/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.06.2013 17:38:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>TPS Turku v Honka</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Honka +2 goals</Selection>
+                <Koefficient>1.12</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Throttur v Grindavik</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Grindavik</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000370/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.06.2013 11:10:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Orebro v Orgryte</Match>
+                <Event>Match Betting</Event>
+                <Selection>Orebro</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Shamrock Rovers v Limerick</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Shamrock Rovers</Selection>
+                <Koefficient>1.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Viikingit v Haka</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Haka</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000371/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.06.2013 12:29:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Zhetysu v Aktobe</Match>
+                <Event>Match Betting</Event>
+                <Selection>Aktobe</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Libya v Togo</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Libya</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Dundalk v St Patricks</Match>
+                <Event>Double Chance</Event>
+                <Selection>St Patricks Or Draw</Selection>
+                <Koefficient>1.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000372/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.06.2013 19:02:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Libya v Togo</Match>
+                <Event>Match Betting</Event>
+                <Selection>Libya</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0000373/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.06.2013 22:37:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Shamrock Rovers v Limerick</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Shamrock Rovers -1 goal</Selection>
+                <Koefficient>2.37</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000374/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.06.2013 14:11:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Qviding v Halmia</Match>
+                <Event>Match Betting</Event>
+                <Selection>Halmia</Selection>
+                <Koefficient>1.83</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000375/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.06.2013 14:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Husqvarna v Kristianstad</Match>
+                <Event>Match Betting</Event>
+                <Selection>Husqvarna</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000376/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.06.2013 20:35:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Spain U21 v Norway U21</Match>
+                <Event>Match Betting Live</Event>
+                <Selection>Spain U21</Selection>
+                <Koefficient>1.12</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Italy U21 v Holland U21</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Holland U21</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000377/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>15.06.2013 20:40:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Brazil v Japan</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000378/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.06.2013 12:57:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Donna Vekic v Daniela Hantuchova</Match>
+                <Event>Number Of Sets In Match</Event>
+                <Selection>3 Sets</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000379/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.06.2013 12:58:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Guinea v Zimbabwe</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Guinea -1 goal</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000380/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.06.2013 13:09:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Mexico v Italy</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000381/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.06.2013 13:16:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Spain v Uruguay</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000382/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.06.2013 15:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Mozambique v Egypt</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000383/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>16.06.2013 22:54:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Mexico v Italy</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Italy</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0000384/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.06.2013 11:57:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Elverum v Sandefjord</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Sandefjord</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>IFK Goteborg v Djurgarden</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>IFK Goteborg</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>GIF Sundsvall v Assyriska</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>GIF Sundsvall</Selection>
+                <Koefficient>1.35</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000385/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>17.06.2013 19:30:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Italy U21 v Spain U21</Match>
+                <Event>Match Betting</Event>
+                <Selection>Spain U21</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Tahiti v Nigeria</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Nigeria -1 goal</Selection>
+                <Koefficient>1.17</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0000386/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.06.2013 11:03:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Australia v Iraq</Match>
+                <Event>Match Betting</Event>
+                <Selection>Australia</Selection>
+                <Koefficient>1.20</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Uzbekistan v Qatar</Match>
+                <Event>Match Betting</Event>
+                <Selection>Uzbekistan</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000387/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.06.2013 11:03:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>South Korea v Iran</Match>
+                <Event>Match Betting</Event>
+                <Selection>South Korea</Selection>
+                <Koefficient>2.40</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000388/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.06.2013 12:56:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Australia v Iraq</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Australia -1 goal</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000389/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>18.06.2013 22:54:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>USA v Honduras</Match>
+                <Event>Match Betting</Event>
+                <Selection>USA</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Brazil v Mexico</Match>
+                <Event>Match Betting</Event>
+                <Selection>Brazil</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0000390/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>19.06.2013 14:30:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Guillermo Garcia-Lopez v Daniel Brands</Match>
+                <Event>Match Betting</Event>
+                <Selection>Daniel Brands</Selection>
+                <Koefficient>1.67</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000391/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>19.06.2013 17:43:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Girona v Almeria</Match>
+                <Event>Girona To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Hacken v Atvidaberg</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000392/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>19.06.2013 20:08:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Italy v Japan</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Italy</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Chicago Blackhawks @ Boston Bruins</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Boston Bruins</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.07</Returns>
+        <Reference>O/6351351/0000393/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.06.2013 19:32:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Spain v Tahiti</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Spain -6 goals</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Nigeria v Uruguay</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Uruguay</Selection>
+                <Koefficient>1.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0000394/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.06.2013 15:31:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>France U20 v Ghana U20</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>France U20</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>USA U20 v Spain U20</Match>
+                <Event>Match Betting</Event>
+                <Selection>Spain U20</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0000395/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.06.2013 11:50:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Japan v Mexico</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Italy v Brazil</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.14</Returns>
+        <Reference>O/6351351/0000396/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>22.06.2013 12:07:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Colombia U20 v Australia U20</Match>
+                <Event>Match Betting</Event>
+                <Selection>Colombia U20</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Mexico U20 v Greece U20</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Mexico U20</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Turkey U20 v El Salvador U20</Match>
+                <Event>Match Betting</Event>
+                <Selection>Turkey U20</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Paraguay U20 v Mali U20</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Paraguay U20</Selection>
+                <Koefficient>1.18</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000397/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>23.06.2013 19:03:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Uruguay v Tahiti</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Uruguay -6 goals</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Nigeria v Spain</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0000398/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>23.06.2013 19:05:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>England U20 v Iraq U20</Match>
+                <Event>Match Betting</Event>
+                <Selection>England U20</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>New Zealand U20 v Uzbekistan U20</Match>
+                <Event>Teams To Score Live</Event>
+                <Selection>Uzbekistan U20 Only</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000399/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>23.06.2013 19:17:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Kalmar v Helsingborg</Match>
+                <Event>Double Chance</Event>
+                <Selection>Helsingborg Or Draw</Selection>
+                <Koefficient>1.25</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>JJK v TPS Turku</Match>
+                <Event>Double Chance</Event>
+                <Selection>JJK Or Draw</Selection>
+                <Koefficient>1.57</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Sandnes Ulf v Sogndal</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Sandnes Ulf</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Stabaek v Strommen</Match>
+                <Event>Match Betting</Event>
+                <Selection>Stabaek</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000400/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.06.2013 11:04:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Belshina Bobruisk v BATE Borisov</Match>
+                <Event>Match Betting</Event>
+                <Selection>BATE Borisov</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Spain U20 v Ghana U20</Match>
+                <Event>Match Betting</Event>
+                <Selection>Spain U20</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>France U20 v USA U20</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>France U20</Selection>
+                <Koefficient>1.12</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0000401/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.06.2013 13:05:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lleyton Hewitt v Stan Wawrinka</Match>
+                <Event>Match Betting</Event>
+                <Selection>Stan Wawrinka</Selection>
+                <Koefficient>1.61</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>John Isner v Evgeny Donskoy</Match>
+                <Event>Match Betting</Event>
+                <Selection>John Isner</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000402/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>24.06.2013 18:20:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Honka v MyPa</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Honka</Selection>
+                <Koefficient>1.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>HJK Helsinki v Jaro</Match>
+                <Event>Match Betting</Event>
+                <Selection>HJK Helsinki</Selection>
+                <Koefficient>1.28</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Haka v AC Kajaani</Match>
+                <Event>Match Betting</Event>
+                <Selection>Haka</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000403/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.06.2013 1:13:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Maria Kirilenko v Laura Robson</Match>
+                <Event>Set Betting</Event>
+                <Selection>Maria Kirilenko 2-0</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Dmitry Tursunov v Tommy Haas</Match>
+                <Event>Match Betting</Event>
+                <Selection>Tommy Haas</Selection>
+                <Koefficient>1.08</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Ivan Dodig v Philipp Kohlschreiber</Match>
+                <Event>Match Betting</Event>
+                <Selection>Philipp Kohlschreiber</Selection>
+                <Koefficient>1.44</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000404/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.06.2013 11:15:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Australia U20 v El Salvador U20</Match>
+                <Event>Match Betting</Event>
+                <Selection>Australia U20</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Mali U20 v Greece U20</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Greece U20</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Turkey U20 v Colombia U20</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Turkey U20 +2 goals</Selection>
+                <Koefficient>1.07</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000405/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.06.2013 11:55:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Brazil v Uruguay</Match>
+                <Event>Highest Scoring Half</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0000406/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.06.2013 11:55:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Brazil v Uruguay</Match>
+                <Event>Brazil To Score Both Halves</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0000407/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>26.06.2013 11:58:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Changchun Yatai v Shanghai Shenhua</Match>
+                <Event>Double Chance</Event>
+                <Selection>Changchun Yatai Or Draw</Selection>
+                <Koefficient>1.65</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.08</Returns>
+        <Reference>O/6351351/0000408/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>27.06.2013 15:14:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>TPS Turku v FC Kuopio</Match>
+                <Event>Double Chance</Event>
+                <Selection>FC Kuopio Or Draw</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Lahti v Inter Turku</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>No</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Mariehamn v HJK Helsinki</Match>
+                <Event>Double Chance</Event>
+                <Selection>HJK Helsinki Or Draw</Selection>
+                <Koefficient>1.22</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.21</Returns>
+        <Reference>O/6351351/0000409/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>27.06.2013 15:31:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Spain v Italy</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000410/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>28.06.2013 15:20:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Celtic v Cliftonville.</Match>
+                <Event>Match BettingSAN</Event>
+                <Selection>Celtic</Selection>
+                <Koefficient>1.08</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Degerfors v Assyriska</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Derry v Bohemians</Match>
+                <Event>Match Betting</Event>
+                <Selection>Derry</Selection>
+                <Koefficient>1.36</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Drogheda v Shamrock Rovers</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Shamrock Rovers</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Shelbourne v Sligo Rovers</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Sligo Rovers</Selection>
+                <Koefficient>1.20</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.19</Returns>
+        <Reference>O/6351351/0000411/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>29.06.2013 14:22:00</Date>
+        <BetType>Express</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Brann v Sandnes Ulf</Match>
+                <Event>Match Betting</Event>
+                <Selection>Brann</Selection>
+                <Koefficient>1.53</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Stromsgodset v Tromso</Match>
+                <Event>Match Betting</Event>
+                <Selection>Stromsgodset</Selection>
+                <Koefficient>1.60</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>GIF Sundsvall v Landskrona</Match>
+                <Event>Match Betting</Event>
+                <Selection>GIF Sundsvall</Selection>
+                <Koefficient>1.50</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+            <MatchInfo>
+                <Match>Ostersund v Hammarby</Match>
+                <Event>Ostersund To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.33</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.25</Returns>
+        <Reference>O/6351351/0000412/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.06.2013 12:03:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Uruguay v Italy</Match>
+                <Event>Highest Scoring Half</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>1.83</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0000413/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>30.06.2013 12:34:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Brazil v Spain</Match>
+                <Event>Highest Scoring Half</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0000414/F</Reference>
+    </Bet>
+</Data>
+

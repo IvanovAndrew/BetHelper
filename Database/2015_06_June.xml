@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data>
+    <Bet>
+        <Date>03.06.2015 10:17:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Tomsk v Ural</Match>
+                <Event>1st Half Betting</Event>
+                <Selection>Draw</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001937/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>03.06.2015 10:17:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>FK Tosno v Rostov</Match>
+                <Event>Match Betting</Event>
+                <Selection>Rostov</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001938/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>03.06.2015 15:58:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Panama v Ecuador</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Panama</Selection>
+                <Koefficient>2.20</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001939/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>03.06.2015 15:59:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Peru v Mexico</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Peru</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001940/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>05.06.2015 18:03:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Holland v USA</Match>
+                <Event>Match Result and Both Teams To Score</Event>
+                <Selection>Holland</Selection>
+                <Koefficient>3.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001941/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.06.2015 20:48:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Juventus v Barcelona</Match>
+                <Event>2nd Half Betting</Event>
+                <Selection>Barcelona</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001942/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>06.06.2015 20:58:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Uruguay v Guatemala</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Uruguay -2 goals</Selection>
+                <Koefficient>2.30</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001943/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2015 12:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Serbia v Azerbaijan</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001944/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2015 12:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>France v Belgium</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001945/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>07.06.2015 12:30:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Brazil v Mexico</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001946/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.06.2015 10:38:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Ghana v Togo</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.50</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001947/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.06.2015 10:38:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Turkey v Bulgaria</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001948/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>08.06.2015 10:38:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Denmark v Montenegro</Match>
+                <Event>Match Betting</Event>
+                <Selection>Denmark</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001949/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>10.06.2015 19:12:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Curacao v Cuba</Match>
+                <Event>Match Betting</Event>
+                <Selection>Curacao</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001950/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.06.2015 12:34:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Japan v Iraq</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Japan -1 goal</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001951/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.06.2015 12:39:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Spain v Costa Rica</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Spain -1 goal</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001952/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>11.06.2015 12:42:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chile v Ecuador</Match>
+                <Event>Match Result and Both Teams To Score</Event>
+                <Selection>Chile</Selection>
+                <Koefficient>3.75</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001953/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.06.2015 11:51:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Kazakhstan v Turkey</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Over 2.5</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001954/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.06.2015 11:51:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Croatia v Italy</Match>
+                <Event>Match x Goals</Event>
+                <Selection>Draw and Under 2.5 Goals</Selection>
+                <Koefficient>3.40</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.17</Returns>
+        <Reference>O/6351351/0001955/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.06.2015 11:51:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Norway v Azerbaijan</Match>
+                <Event>Total Match Goals Under/Over</Event>
+                <Selection>Under 2.5</Selection>
+                <Koefficient>1.73</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001956/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.06.2015 11:52:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bosnia v Israel</Match>
+                <Event>Match Betting</Event>
+                <Selection>Bosnia</Selection>
+                <Koefficient>1.70</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001957/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.06.2015 11:52:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Wales v Belgium</Match>
+                <Event>Match Betting</Event>
+                <Selection>Belgium</Selection>
+                <Koefficient>1.80</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001958/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>12.06.2015 11:52:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Malta v Bulgaria</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Bulgaria -1 goal</Selection>
+                <Koefficient>2.45</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001959/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.06.2015 11:20:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Poland v Georgia</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.37</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001960/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.06.2015 11:21:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Finland v Hungary</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Hungary</Selection>
+                <Koefficient>2.15</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.11</Returns>
+        <Reference>O/6351351/0001961/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.06.2015 11:21:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Republic of Ireland v Scotland</Match>
+                <Event>Draw No Bet</Event>
+                <Selection>Scotland</Selection>
+                <Koefficient>2.25</Koefficient>
+                <Result>Void</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.05</Returns>
+        <Reference>O/6351351/0001962/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>13.06.2015 11:22:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Denmark v Serbia</Match>
+                <Event>Denmark To Score 2nd Half</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>1.75</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001963/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.06.2015 11:44:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Slovenia v England</Match>
+                <Event>Match Betting</Event>
+                <Selection>England</Selection>
+                <Koefficient>1.83</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001964/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.06.2015 11:44:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Russia v Austria</Match>
+                <Event>Match Betting</Event>
+                <Selection>Russia</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001965/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.06.2015 11:49:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Lithuania v Switzerland</Match>
+                <Event>Match Handicaps</Event>
+                <Selection>Switzerland -1 goal</Selection>
+                <Koefficient>2.00</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001966/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>14.06.2015 11:50:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Belarus v Spain</Match>
+                <Event>Teams To Score</Event>
+                <Selection>Spain Only</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001967/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>19.06.2015 23:54:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chile v Bolivia</Match>
+                <Event>2nd Half Over/Under Goals</Event>
+                <Selection>Over 1.5</Selection>
+                <Koefficient>1.91</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.10</Returns>
+        <Reference>O/6351351/0001968/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.06.2015 21:51:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Uruguay v Paraguay</Match>
+                <Event>Highest Scoring Half</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001969/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>20.06.2015 21:52:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Argentina v Jamaica</Match>
+                <Event>Both Teams To Score and Under/Over 2.5 Goals</Event>
+                <Selection>No And Over 2.5 Goals</Selection>
+                <Koefficient>2.60</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001970/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>21.06.2015 20:31:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Colombia v Peru</Match>
+                <Event>Colombia Under/Over 1.5 Goals</Event>
+                <Selection>Over</Selection>
+                <Koefficient>1.95</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001971/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>25.06.2015 23:31:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Bolivia v Peru</Match>
+                <Event>Double Chance</Event>
+                <Selection>Bolivia Or Draw</Selection>
+                <Koefficient>1.83</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001972/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>27.06.2015 0:40:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Argentina v Colombia</Match>
+                <Event>Both Teams To Score</Event>
+                <Selection>Yes</Selection>
+                <Koefficient>2.10</Koefficient>
+                <Result>Lost</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.00</Returns>
+        <Reference>O/6351351/0001973/F</Reference>
+    </Bet>
+    <Bet>
+        <Date>29.06.2015 19:29:00</Date>
+        <BetType>Single</BetType>
+        <Matches>
+            <MatchInfo>
+                <Match>Chile v Peru</Match>
+                <Event>Highest Scoring Half</Event>
+                <Selection>2nd Half</Selection>
+                <Koefficient>1.85</Koefficient>
+                <Result>Won</Result>
+            </MatchInfo>
+        </Matches>
+        <Stake>0.05</Stake>
+        <Returns>0.09</Returns>
+        <Reference>O/6351351/0001974/F</Reference>
+    </Bet>
+</Data>
+
