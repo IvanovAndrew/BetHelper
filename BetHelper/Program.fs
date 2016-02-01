@@ -6,10 +6,15 @@ open HtmlToBet
 open XmlToBet
 open Statistic
 
-//let folder = "../../../Database/"
+let dbFolder = "../../../Database/"
 
 let findFiles mask = 
-    let allFiles = Directory.GetFiles <| Directory.GetCurrentDirectory()
+    let allFiles = 
+        let tempFiles = Directory.GetFiles <| Directory.GetCurrentDirectory()
+        let dbFiles = Directory.GetFiles(dbFolder)
+        
+        Array.append tempFiles dbFiles
+
     allFiles 
     |> Array.filter (fun s -> Regex.IsMatch(s, mask))
 
@@ -21,7 +26,7 @@ let parseFile fileName =
         elif extension = ".xml" then Xml
         else Other(extension)
 
-    let fullPath = (*folder +*) fileName
+    let fullPath = fileName
     match Path.GetExtension(fileName) with
     | Html 
     | Htm -> HtmlExtractor.ExtractData fullPath
