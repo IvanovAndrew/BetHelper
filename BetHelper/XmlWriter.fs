@@ -1,13 +1,14 @@
 ﻿module XmlWriter
 
+open System.IO
 open System.Text
 
 open Constant
 open Structures
 
 
-let print (out : StringBuilder) (x : 'a) =
-    Printf.kprintf (fun s -> out.Append s |> ignore) x
+(*let print (out : StringBuilder) (x : 'a) =
+    x |> Printf.kprintf out.Append >> ignore
 
 let printBr (out : StringBuilder) (x : 'a) =
     Printf.kprintf (fun s -> out.Append(s).Append(System.Environment.NewLine) |> ignore) x
@@ -15,20 +16,22 @@ let printBr (out : StringBuilder) (x : 'a) =
 let printBrInd (out : StringBuilder) num (x : 'a) =
     print out "%s" (String.replicate (num <<< 2) " ")
     printBr out x
-
+    *)
 type Printer(out : StringBuilder) = 
 
     member this.Out with get() = out
         
     member this.Print x = 
-        Printf.kprintf (fun s -> this.Out.Append s |> ignore) x
+        x 
+        |> Printf.kprintf this.Out.Append >> ignore
 
     member this.PrintBr (x : 'a) =
-        Printf.kprintf (fun s -> this.Out.Append(s).Append(System.Environment.NewLine) |> ignore) x
+        x
+        |> Printf.kprintf (fun s -> this.Out.Append(s).Append(System.Environment.NewLine) |> ignore)
 
     member this.PrintBrInd num (x : 'a) =
-        print out "%s" (String.replicate (num <<< 2) " ")
-        printBr out x
+        this.Print "%s" (String.replicate (num <<< 2) " ")
+        this.PrintBr x
 
 
 let matchToXmlString (matchInfo : MatchInfo) tab = 
@@ -86,16 +89,16 @@ let writeBet (printer : Printer) (bet : Bet) =
     printer.PrintBrInd 2 "<%s>%s</%s>" referencesTag bet.Reference referencesTag
     printer.PrintBrInd 1 "</%s>" betTag
 
-let writeToXml (name : string) (bets : Bet array) = 
+let writeToXml (name : string) bets = 
 
-    use out = new System.IO.StreamWriter(name)
+    use out = new StreamWriter(name)
 
     let printer = new Printer(new StringBuilder())
     printer.PrintBr "<?xml version=\"1.0\" encoding=\"utf-8\"?>"
     
     printer.PrintBr "<Data>"
     bets
-    |> Array.iter (fun bet -> writeBet printer bet)
+    |> Seq.iter (fun bet -> writeBet printer bet)
     printer.PrintBr "</Data>"
 
     out.WriteLine(printer.Out.ToString())

@@ -1,8 +1,6 @@
-﻿open System.Text.RegularExpressions
-open System.IO
-open System
+﻿open System.IO
+open System.Text.RegularExpressions
 
-open Structures
 open XmlWriter
 open HtmlToBet
 open XmlToBet
@@ -14,8 +12,16 @@ let findFiles mask =
     let allFiles = Directory.GetFiles <| Directory.GetCurrentDirectory()
     allFiles 
     |> Array.filter (fun s -> Regex.IsMatch(s, mask))
-    
 
+let parseFile fileName = 
+    let fullPath = (*folder +*) fileName
+    let extension = Path.GetExtension(fileName)
+    if  extension = ".html"
+    then HtmlExtractor.ExtractData fullPath
+    elif extension = ".xml"
+    then XmlExtractor.ExtractData fullPath
+    else failwithf "Unsupported file extension: %s" extension
+    
 [<EntryPoint>]
 let main argv = 
     let xmlName = "2015_11_Novermber.xml"
@@ -26,19 +32,9 @@ let main argv =
 
     let bets = 
         files 
-        |> Array.map 
-            (
-                fun name -> 
-                    let fullPath = (*folder +*) name
-                    if Path.GetExtension(name) = ".html"
-                    then HtmlExtractor.ExtractData fullPath
-                    elif Path.GetExtension(name) = ".xml"
-                    then XmlExtractor.ExtractData fullPath
-                    else failwithf "Unsupported file extension: %s" <| Path.GetExtension name
-            
-            )
-        |> Array.concat
-        |> Array.sort
+        |> Array.map parseFile
+        |> Seq.concat
+        |> Seq.sort
 
     writeToXml xmlName bets
 
@@ -47,13 +43,12 @@ let main argv =
     let profit = calculateProfit bets
     let totalStakes = calculateStakes bets
     
-
-    let winStakes = Array.length <| chooseWinBets bets
-    let voidStakes = Array.length <| chooseVoidBets bets
-    let looseStakes = Array.length <| chooseLooseBets bets
+    let winStakes = Seq.length <| chooseWinBets bets
+    let voidStakes = Seq.length <| chooseVoidBets bets
+    let looseStakes = Seq.length <| chooseLooseBets bets
 
     printfn "Income is $%.2f. Investition is $%.2f" profit totalStakes
-    printfn "Count is %d: +%d =%d -%d" bets.Length winStakes voidStakes looseStakes
+    printfn "Count is %d: +%d =%d -%d" <| Seq.length bets <| winStakes <| voidStakes <| looseStakes
 
     let totalMatches = calculateMatches bets
     let winMatches, refundMatches, lostMathces = calculateMatchesResult bets

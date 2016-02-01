@@ -2,18 +2,19 @@
 
 open Constant
 open Structures
+open System
 
-let calculateProfit (bets : Bet array) = 
+let calculateProfit (bets : Bet seq) = 
     bets
-    |> Array.fold (fun sum bet -> sum + bet.Returns - bet.Stake) 0.0
+    |> Seq.fold (fun sum bet -> sum + bet.Returns - bet.Stake) 0.0
 
-let calculateStakes (bets : Bet array) = 
+let calculateStakes (bets : Bet seq) = 
     bets
-    |> Array.fold (fun sum bet -> sum + bet.Stake) 0.0
+    |> Seq.fold (fun sum bet -> sum + bet.Stake) 0.0
 
-let calculateMatches (bets : Bet array) = 
+let calculateMatches (bets : Bet seq) = 
     bets
-    |> Array.fold 
+    |> Seq.fold 
         (
             fun sum bet -> 
                 match bet.BetType with
@@ -21,31 +22,31 @@ let calculateMatches (bets : Bet array) =
                 | Express matches -> sum + matches.Count
         ) 0
 
-let chooseWinBets (bets: Bet array) = 
+let chooseWinBets (bets: Bet seq) = 
     bets
-    |> Array.filter (fun bet -> bet.Returns > bet.Stake)
+    |> Seq.filter (fun bet -> bet.Returns > bet.Stake)
 
-let chooseVoidBets (bets: Bet array) = 
+let chooseVoidBets (bets: Bet seq) = 
     bets
-    |> Array.filter (fun bet -> bet.Returns = bet.Stake)
+    |> Seq.filter (fun bet -> bet.Returns = bet.Stake)
 
-let chooseLooseBets (bets: Bet array) = 
+let chooseLooseBets (bets: Bet seq) = 
     bets
-    |> Array.filter (fun bet -> bet.Returns < bet.Stake)
+    |> Seq.filter (fun bet -> bet.Returns < bet.Stake)
 
-let printBets (bets : Bet array) = 
+let printBets (bets : Bet seq) = 
     bets 
-    |> Array.iter 
+    |> Seq.iter 
         (fun bet -> 
             printfn "%s\t%.2f - %.2f = %.2f\t%s" bet.Date bet.Returns bet.Stake (bet.Returns - bet.Stake) bet.Reference
         )
 
-let calculateWinProfit (bets : Bet array) = 
+let calculateWinProfit (bets : Bet seq) = 
     bets
     |> chooseWinBets
     |> calculateProfit
 
-let calculateMatchesResult (bets : Bet array) = 
+let calculateMatchesResult (bets : Bet seq) = 
     let won = ref 0
     let refund = ref 0
     let lost = ref 0
@@ -57,7 +58,7 @@ let calculateMatchesResult (bets : Bet array) =
         elif game.Result = placedString then incr lost
 
     bets
-    |> Array.iter 
+    |> Seq.iter 
         (
             fun bet -> 
                 match bet with 
@@ -65,11 +66,12 @@ let calculateMatchesResult (bets : Bet array) =
                 | :? ExpressBet as express -> 
                     for game in express.Matches do
                         mainFunc game
+                | x -> failwithf "Unexpected bet type: %A" x
         )
 
     !won, !refund, !lost
 
-let printNeedMatches (bets : Bet array) needResult = 
+let printNeedMatches (bets : Bet seq) needResult = 
     
     let needString = matchResultToString needResult
     let count = ref 0
@@ -81,18 +83,20 @@ let printNeedMatches (bets : Bet array) needResult =
         incr count
         printfn "%d %s %s %s" !count date _match reference
 
+    let printBet (bet : Bet) = 
+        match bet with 
+        | :? SingleBet as single -> 
+            if isNeedMatch single.Match 
+            then print bet.Date single.Match.Match bet.Reference
+        | :? ExpressBet as express -> 
+            let winMatches = 
+                express.Matches
+                |> Seq.filter isNeedMatch
+            
+            winMatches
+            |> Seq.iter(fun matchInfo -> print bet.Date matchInfo.Match bet.Reference)
+
+        | _ -> failwithf "Expected singleBet or ExpressBet, but received %A" <| bet
 
     bets 
-    |> Array.iter 
-        (
-            fun bet -> 
-                match bet with 
-                | :? SingleBet as single -> 
-                    if isNeedMatch single.Match 
-                    then print bet.Date single.Match.Match bet.Reference
-                | :? ExpressBet as express -> 
-                    let winMatches = express.Matches.FindAll(fun matchInfo -> isNeedMatch matchInfo)
-                    winMatches.ForEach(fun matchInfo -> print bet.Date matchInfo.Match bet.Reference)
-                        
-                | _ -> failwithf "Expected singleBet or ExpressBet, but received %s" <| bet.GetType().ToString()
-        )
+    |> Seq.iter printBet

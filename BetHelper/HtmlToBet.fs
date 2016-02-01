@@ -1,8 +1,8 @@
 ﻿module HtmlToBet
 
 open System.Collections.Generic
+open System.IO
 open System.Text.RegularExpressions
-
 
 open Constant
 open Helper
@@ -60,7 +60,7 @@ let parseExpress(matchArray : string array) =
 
     let matchInfo = parseMatchInfo(matchArray.[4], matchArray.[5], matchArray.[6])
     let arr = new ResizeArray<_>()
-    arr.Add matchInfo
+    arr.Add (matchInfo)
 
     let stake = toDouble matchArray.[7]
     let returns = toDouble matchArray.[8]
@@ -71,7 +71,7 @@ let parseExpress(matchArray : string array) =
 type BetAllParser() = 
 
     static member ParseText text = 
-        let res = new ResizeArray<Bet>()
+        let res : Bet list ref = ref []
         let oldData = ref None
         
         let parse matchStr = 
@@ -79,6 +79,7 @@ type BetAllParser() =
             let parseString str = 
                 let info = new ResizeArray<_>()
                 let bets = Regex.Matches(matchStr, fieldRegExp, RegexOptions.Singleline)
+                
                 for m in bets do
                     info.Add m.Groups.["HEAD"].Value
 
@@ -90,23 +91,23 @@ type BetAllParser() =
             | 0 -> printfn "Unmatched %s\n" matchStr
             | 5 -> 
                 let matchInfo = parseMatchInfo (info.[2], info.[3], info.[4])
-                if oldData.Value.IsSome
-                then
-                    let express : ExpressBet = oldData.Value.Value
+                match !oldData with
+                | Some value -> 
+                    let express : ExpressBet = value
                     express.Matches.Add matchInfo
-                else
-                    failwithf "There is express match, but express description is absent\n"
+                | None -> failwithf "There is express match, but express description is absent\n"
             | 10 ->
-                if oldData.Value.IsSome
-                then
-                    let express = oldData.Value.Value
-                    res.Add express
+                match !oldData with
+                | Some value -> 
+                    let express = value :> Bet
+                    res := express :: !res
                     oldData := None
+                | None -> ()
 
                 if info.Contains singleString 
                 then
-                    let singleBet = parseSingle <| info.ToArray()
-                    res.Add singleBet
+                    let singleBet = info.ToArray() |> parseSingle
+                    res := (singleBet :> Bet) :: !res
                 else
                     let express = parseExpress <| info.ToArray()
                     oldData := Some <| express
@@ -114,18 +115,27 @@ type BetAllParser() =
             | _ -> failwithf "Unexpected info.Count value: %d" info.Count
 
         let totalReg = Regex.Matches(text, betRegExpr, RegexOptions.Singleline)
-    
-        for m in totalReg do
-            parse m.Groups.["Info"].Value
+        let enumerator = totalReg.GetEnumerator()
+        let totalRegSeq = seq 
+                            {
+                                while enumerator.MoveNext() do 
+                                    let currentMatch = enumerator.Current :?> Match
+                                    yield currentMatch.Groups.["Info"].Value
+                            }
+
+        totalRegSeq 
+        |> Seq.iter parse
         
-        if oldData.Value.IsSome
-        then res.Add oldData.Value.Value
+        match !oldData with
+        | Some value -> res := (value :> Bet) :: !res
+        | None -> ()
         
-        res
+        !res
 
 type HtmlExtractor() = 
 
     static member ExtractData name = 
-        let text = System.IO.File.ReadAllText name
+        let text = File.ReadAllText name
         let res = BetAllParser.ParseText text
-        res.ToArray()
+        res
+        |> Seq.ofList
