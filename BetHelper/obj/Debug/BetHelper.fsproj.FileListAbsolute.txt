@@ -1,9 +1,0 @@
-C:\Users\1\Desktop\Programms\Bet\BetHelper\BetHelper\bin\Debug\BetHelper.exe.config
-C:\Users\1\Desktop\Programms\Bet\BetHelper\BetHelper\bin\Debug\BetHelper.XML
-C:\Users\1\Desktop\Programms\Bet\BetHelper\BetHelper\bin\Debug\BetHelper.exe
-C:\Users\1\Desktop\Programms\Bet\BetHelper\BetHelper\bin\Debug\BetHelper.pdb
-C:\Users\1\Desktop\Programms\Bet\BetHelper\BetHelper\bin\Debug\FSharp.Core.dll
-C:\Users\1\Desktop\Programms\Bet\BetHelper\BetHelper\bin\Debug\FSharp.Core.xml
-C:\Users\1\Desktop\Programms\Bet\BetHelper\BetHelper\obj\Debug\BetHelper.fsprojResolveAssemblyReference.cache
-C:\Users\1\Desktop\Programms\Bet\BetHelper\BetHelper\obj\Debug\BetHelper.exe
-C:\Users\1\Desktop\Programms\Bet\BetHelper\BetHelper\obj\Debug\BetHelper.pdb
