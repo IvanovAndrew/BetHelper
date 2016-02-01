@@ -6,17 +6,6 @@ open System.Text
 open Constant
 open Structures
 
-
-(*let print (out : StringBuilder) (x : 'a) =
-    x |> Printf.kprintf out.Append >> ignore
-
-let printBr (out : StringBuilder) (x : 'a) =
-    Printf.kprintf (fun s -> out.Append(s).Append(System.Environment.NewLine) |> ignore) x
-
-let printBrInd (out : StringBuilder) num (x : 'a) =
-    print out "%s" (String.replicate (num <<< 2) " ")
-    printBr out x
-    *)
 type Printer(out : StringBuilder) = 
 
     member this.Out with get() = out
