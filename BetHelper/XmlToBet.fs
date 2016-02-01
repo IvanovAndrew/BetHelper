@@ -7,6 +7,8 @@ open Constant
 open Helper
 open Structures
 
+let isEmpty str = str = ""
+
 type private DelayBetType = 
 | SingleType
 | ExpressType
@@ -15,6 +17,10 @@ type private DelayBetType =
         if str = singleString then SingleType
         elif str = expressString then ExpressType
         else failwithf "Expected %s or %s betType, but %s was" singleString expressString str
+
+type private OneOrManyMatch = 
+| One of MatchInfo
+| Many of MatchInfo seq
 
 type XmlExtractor() = 
     
@@ -30,15 +36,13 @@ type XmlExtractor() =
             elif tag = resultTag then ResultTag (text)
             else Other(tag)
 
-        let matches = new ResizeArray<_>()
-    
-        for child2 in xmlNode.FirstChild.ChildNodes do
-            let mutable _match = ""
-            let mutable event = ""
-            let mutable selection = ""
-            let mutable result = ""
-            let mutable koefficient = 0.0
+        let mutable _match = ""
+        let mutable event = ""
+        let mutable selection = ""
+        let mutable result = ""
+        let mutable koefficient = 0.0
 
+        for child2 in xmlNode.ChildNodes do
             match child2 with
             | MatchTag str -> _match <- str
             | EventTag str -> event <- str
@@ -46,16 +50,28 @@ type XmlExtractor() =
             | KoefficientTag str -> koefficient <- toDouble str
             | ResultTag str -> result <- str
             | Other tag -> failwithf "Uncovered matchInfo tag: %s" tag
+        
+        assert not (isEmpty _match || isEmpty event || isEmpty selection || isEmpty result)
+        new MatchInfo(_match, event, selection, koefficient, result)
 
-            let matchInfo = new MatchInfo(_match, event, selection, koefficient, result)
-            matches.Add matchInfo
-
-        matches
+    static let parseMatches (xmlNode : XmlNode) = 
+        
+        if xmlNode.ChildNodes.Count = 1 
+        then 
+            let matchInfo = parseMatchInfo xmlNode.FirstChild
+            One(matchInfo)
+        else
+            let childsSeq = seq {for child in xmlNode.ChildNodes do yield child}
+            
+            let matchesInfo = 
+                childsSeq
+                |> Seq.map parseMatchInfo
+            Many(matchesInfo)
 
     static let parseBet (xmlNode : XmlNode)= 
         let mutable date = ""
         let mutable betType = Unchecked.defaultof<DelayBetType>
-        let mutable matchArray = new ResizeArray<_>()
+        let mutable matches = Unchecked.defaultof<OneOrManyMatch>
         let mutable stake = 0.0
         let mutable returns = 0.0
         let mutable reference = ""
@@ -66,37 +82,34 @@ type XmlExtractor() =
 
             if tag = dateTag then Date(text)
             elif tag = betTypeTag then BetType(DelayBetType.Create text)
-            elif tag = matchesTag then Matches(parseMatchInfo input)
+            elif tag = matchesTag then Matches(parseMatches input)
             elif tag = stakeTag then Stake(toDouble text)
             elif tag = returnsTag then Returns(toDouble text)
             elif tag = referencesTag then Reference text
             else Other text
 
-
         for child in xmlNode.ChildNodes do
             match child with
             | Date d -> date <- d
             | BetType b -> betType <- b
-            | Matches m -> matchArray <- m
+            | Matches m -> matches <- m
             | Stake s -> stake <- s
             | Returns r -> returns <- r
             | Reference r -> reference <- r
             | Other tag -> failwithf "Unsupported tag: %s" tag
         
-        match betType with
-        | SingleType -> new SingleBet(matchArray.[0], date, stake, returns, reference) :> Bet
-        | ExpressType -> new ExpressBet(matchArray, date, stake, returns, reference) :> Bet
+        match betType, matches with
+        | SingleType, One game -> new SingleBet(game, date, stake, returns, reference) :> Bet
+        | ExpressType, Many games -> new ExpressBet(games, date, stake, returns, reference) :> Bet
+        | _ -> failwith "Unexpected configuration in match parsing"
 
     static member ExtractData (name : string) = 
         let xmlDocument = new XmlDocument()
         xmlDocument.Load(name)
 
         let element = xmlDocument.DocumentElement.ChildNodes
-        let enumerator = element.GetEnumerator()
 
-        let elementsSeq = seq {
-                                while enumerator.MoveNext() do 
-                                    yield enumerator.Current :?> XmlNode
-                              }
+        let elementsSeq = seq {for elem in element do yield elem} 
+
         elementsSeq
         |> Seq.map parseBet

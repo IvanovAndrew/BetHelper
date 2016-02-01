@@ -15,7 +15,7 @@ type MatchInfo(matchStr : string, event : string, selection : string, koefficien
 
 type BetType = 
 | Single of MatchInfo
-| Express of ResizeArray<MatchInfo>
+| Express of MatchInfo seq
 
 [<AbstractClass>]
 type Bet(date : string, stake : double, returns : double, reference : string) =
@@ -41,9 +41,6 @@ type Bet(date : string, stake : double, returns : double, reference : string) =
     
     interface System.IComparable with
         member this.CompareTo(obj: obj): int = 
-            
-            
-
             match obj with 
             | :? Bet as bet -> 
                 let xNum = extractBetNumber this.Reference
@@ -74,7 +71,9 @@ type SingleBet(matchInfo, date, stake, returns, reference) =
 type ExpressBet(matches, date, stake, returns, reference) = 
     inherit Bet(date, stake, returns, reference)
 
-    override this.BetType = Express matches
+    let mutable betType = Express matches
+
+    override this.BetType = betType
 
     member this.Matches = 
         let allMatches = 
@@ -82,6 +81,12 @@ type ExpressBet(matches, date, stake, returns, reference) =
             | Express m -> m
             | _ -> failwith "Expected Bet.Type = Express"
         allMatches
+
+    member this.AddMatch m = 
+        let newMatches = 
+            this.Matches
+            |> Seq.append [m]
+        betType <- Express newMatches
 
 type ParseResult = 
 | Success of Bet
@@ -93,8 +98,8 @@ type MatchResult =
 | Refund
 | Lost
 
-let matchResultToString = 
-    function 
-    | Win -> wonString
-    | Refund -> refundString
-    | Lost -> lostString
+    static member ToString = 
+        function 
+        | Win -> wonString
+        | Refund -> refundString
+        | Lost -> lostString

@@ -94,7 +94,7 @@ type BetAllParser() =
                 match !oldData with
                 | Some value -> 
                     let express : ExpressBet = value
-                    express.Matches.Add matchInfo
+                    express.AddMatch matchInfo
                 | None -> failwithf "There is express match, but express description is absent\n"
             | 10 ->
                 match !oldData with
@@ -115,13 +115,7 @@ type BetAllParser() =
             | _ -> failwithf "Unexpected info.Count value: %d" info.Count
 
         let totalReg = Regex.Matches(text, betRegExpr, RegexOptions.Singleline)
-        let enumerator = totalReg.GetEnumerator()
-        let totalRegSeq = seq 
-                            {
-                                while enumerator.MoveNext() do 
-                                    let currentMatch = enumerator.Current :?> Match
-                                    yield currentMatch.Groups.["Info"].Value
-                            }
+        let totalRegSeq = seq {for m in totalReg do yield m.Groups.["Info"].Value}
 
         totalRegSeq 
         |> Seq.iter parse

@@ -19,7 +19,7 @@ let calculateMatches (bets : Bet seq) =
             fun sum bet -> 
                 match bet.BetType with
                 | Single _ -> sum + 1
-                | Express matches -> sum + matches.Count
+                | Express matches -> sum + Seq.length matches
         ) 0
 
 let chooseWinBets (bets: Bet seq) = 
@@ -64,16 +64,15 @@ let calculateMatchesResult (bets : Bet seq) =
                 match bet with 
                 | :? SingleBet as single -> mainFunc single.Match
                 | :? ExpressBet as express -> 
-                    for game in express.Matches do
-                        mainFunc game
+                    express.Matches
+                    |> Seq.iter mainFunc
                 | x -> failwithf "Unexpected bet type: %A" x
         )
-
     !won, !refund, !lost
 
 let printNeedMatches (bets : Bet seq) needResult = 
     
-    let needString = matchResultToString needResult
+    let needString = MatchResult.ToString needResult
     let count = ref 0
 
     let isNeedMatch (matchInfo : MatchInfo) = 
@@ -88,6 +87,7 @@ let printNeedMatches (bets : Bet seq) needResult =
         | :? SingleBet as single -> 
             if isNeedMatch single.Match 
             then print bet.Date single.Match.Match bet.Reference
+        
         | :? ExpressBet as express -> 
             let winMatches = 
                 express.Matches
@@ -96,7 +96,7 @@ let printNeedMatches (bets : Bet seq) needResult =
             winMatches
             |> Seq.iter(fun matchInfo -> print bet.Date matchInfo.Match bet.Reference)
 
-        | _ -> failwithf "Expected singleBet or ExpressBet, but received %A" <| bet
+        | _ -> failwithf "Expected singleBet or ExpressBet, but received %A" bet
 
     bets 
     |> Seq.iter printBet
