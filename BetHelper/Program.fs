@@ -14,13 +14,19 @@ let findFiles mask =
     |> Array.filter (fun s -> Regex.IsMatch(s, mask))
 
 let parseFile fileName = 
+    
+    let (|Html|Htm|Xml|Other|) extension = 
+        if extension = ".html" then Html
+        elif extension = ".htm" then Htm
+        elif extension = ".xml" then Xml
+        else Other(extension)
+
     let fullPath = (*folder +*) fileName
-    let extension = Path.GetExtension(fileName)
-    if  extension = ".html"
-    then HtmlExtractor.ExtractData fullPath
-    elif extension = ".xml"
-    then XmlExtractor.ExtractData fullPath
-    else failwithf "Unsupported file extension: %s" extension
+    match Path.GetExtension(fileName) with
+    | Html 
+    | Htm -> HtmlExtractor.ExtractData fullPath
+    | Xml -> XmlExtractor.ExtractData fullPath
+    | Other x -> failwithf "Unsupported file extension: %s" x
     
 [<EntryPoint>]
 let main argv = 
