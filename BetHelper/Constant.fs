@@ -1,8 +1,5 @@
 ﻿module Constant
 
-let singleString = "Single"
-let expressString = "Express"
-
 let fieldRegExp = @"<td.*?>(?<HEAD>.*?)</td>"
 let expressRegExp = @".*\((?<NUMBER>\d+)\).*"
 

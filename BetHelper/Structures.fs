@@ -47,9 +47,17 @@ type MatchInfo(matchStr : string, event : string, selection : string, koefficien
     member this.Koefficient with get() = koefficient
     member this.Result with get() = result
 
+let singleString = "Single"
+let expressString = "Express"
+
 type BetType = 
 | Single of MatchInfo
 | Express of MatchInfo seq
+    
+    static member BetTypeToString betType = 
+        match betType with
+        | Single _ -> singleString
+        | Express _ -> expressString
 
 type Bet(date : string, stake : double, returns : double, reference : string, matches : BetType) =
     
