@@ -6,7 +6,40 @@ open System.Text.RegularExpressions
 
 open Constant
 
-type MatchInfo(matchStr : string, event : string, selection : string, koefficient : double, result : string) = 
+let wonString = "Won"
+let lostString = "Lost"
+let placedString = "Placed"
+let refundString = "Void"
+
+type MatchResult = 
+| Win
+| Refund
+| Lost
+| Placed
+
+    static member AreEqual one two = 
+        match one, two with
+        | Win, Win
+        | Refund, Refund
+        | Lost, Lost 
+        | Placed, Placed -> true
+        | _ -> false
+    
+    static member ToString = 
+        function 
+        | Win -> wonString
+        | Refund -> refundString
+        | Lost -> lostString
+        | Placed -> placedString
+
+    static member Parse str = 
+        if str = wonString then Win
+        elif str = refundString then Refund
+        elif str = lostString then Lost
+        elif str = placedString then Placed
+        else invalidArg str <| sprintf "Unexpected parser input: %s" str
+
+type MatchInfo(matchStr : string, event : string, selection : string, koefficient : double, result : MatchResult) = 
 
     member this.Match with get() = matchStr
     member this.Event with get() = event
@@ -85,14 +118,3 @@ type ParseResult =
 | Success of Bet
 | NotFinished of Bet
 | Fail of string
-
-type MatchResult = 
-| Win
-| Refund
-| Lost
-
-    static member ToString = 
-        function 
-        | Win -> wonString
-        | Refund -> refundString
-        | Lost -> lostString

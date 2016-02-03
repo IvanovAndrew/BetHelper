@@ -53,10 +53,11 @@ let calculateMatchesResult (bets : Bet seq) =
     let lost = ref 0
 
     let mainFunc (game : MatchInfo) = 
-        if game.Result = wonString then incr won
-        elif game.Result = refundString then incr refund
-        elif game.Result = lostString then incr lost
-        elif game.Result = placedString then incr lost
+        match game.Result with
+        | Win -> incr won
+        | Refund -> incr refund
+        | Lost 
+        | Placed -> incr lost
 
     bets
     |> Seq.iter 
@@ -72,11 +73,10 @@ let calculateMatchesResult (bets : Bet seq) =
 
 let printNeedMatches (bets : Bet seq) needResult = 
     
-    let needString = MatchResult.ToString needResult
     let count = ref 0
 
     let isNeedMatch (matchInfo : MatchInfo) = 
-        matchInfo.Result = needString
+        MatchResult.AreEqual matchInfo.Result needResult
 
     let print date _match reference = 
         incr count

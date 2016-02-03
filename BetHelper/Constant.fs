@@ -3,11 +3,6 @@
 let singleString = "Single"
 let expressString = "Express"
 
-let wonString = "Won"
-let lostString = "Lost"
-let placedString = "Placed"
-let refundString = "Void"
-
 let fieldRegExp = @"<td.*?>(?<HEAD>.*?)</td>"
 let expressRegExp = @".*\((?<NUMBER>\d+)\).*"
 

@@ -25,7 +25,7 @@ type XmlExtractor() =
         let mutable _match = ""
         let mutable event = ""
         let mutable selection = ""
-        let mutable result = ""
+        let mutable result = Unchecked.defaultof<_>
         let mutable koefficient = 0.0
 
         for child2 in xmlNode.ChildNodes do
@@ -34,7 +34,7 @@ type XmlExtractor() =
             | EventTag str -> event <- str
             | SelectionTag str -> selection <- str
             | KoefficientTag str -> koefficient <- toDouble str
-            | ResultTag str -> result <- str
+            | ResultTag str -> result <- MatchResult.Parse str
             | Other tag -> failwithf "Uncovered matchInfo tag: %s" tag
         
         new MatchInfo(_match, event, selection, koefficient, result)

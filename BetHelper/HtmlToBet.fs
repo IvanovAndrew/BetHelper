@@ -31,9 +31,11 @@ let parseMatchInfo(matchStr : string, selectStr : string, result : string) =
         then toDouble m.Groups.["Koef"].Value
         else failwith "Extracting koeff failed"
 
-    let resultTrim = result.Trim()
+    let resultType = 
+        result.Trim()
+        |> MatchResult.Parse
 
-    MatchInfo(_match, event, selection, koeff, resultTrim)
+    MatchInfo(_match, event, selection, koeff, resultType)
 
 let parseDate (dateStr : string) = 
     
