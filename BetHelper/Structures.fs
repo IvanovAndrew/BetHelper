@@ -1,6 +1,7 @@
 ﻿module Structures
 
 open System
+open System.Collections.Generic
 open System.Text.RegularExpressions
 
 open Constant
@@ -17,8 +18,7 @@ type BetType =
 | Single of MatchInfo
 | Express of MatchInfo seq
 
-[<AbstractClass>]
-type Bet(date : string, stake : double, returns : double, reference : string) =
+type Bet(date : string, stake : double, returns : double, reference : string, matches : BetType) =
     
     let extractBetNumber str = 
         let m = Regex.Match(str, referenceRegExpr)
@@ -30,6 +30,17 @@ type Bet(date : string, stake : double, returns : double, reference : string) =
     let mutable stake = stake
     let mutable returns = returns
     let mutable reference = reference
+    let mutable matches = matches
+
+    let compare (bet : Bet) = 
+        let xNum = extractBetNumber reference
+        let betNum = extractBetNumber bet.Reference
+                
+        if xNum < betNum 
+        then -1 
+        elif xNum = betNum
+        then 0
+        else 1
 
     member this.Date with get() = date
     member this.Stake 
@@ -37,56 +48,38 @@ type Bet(date : string, stake : double, returns : double, reference : string) =
         and set value = stake <- value
     member this.Returns with get() = returns
     member this.Reference with get() = reference
-    abstract BetType : BetType with get
+    member this.Matches with get() = matches
+        
+
+    member this.AddMatch matchInfo = 
+        let newMatches = 
+            match matches with
+            | Express games -> 
+                games
+                |> Seq.append [matchInfo]
+            | Single _ -> invalidOp "Cann't add match to single bet"
+        matches <- Express(newMatches)
     
     interface System.IComparable with
-        member this.CompareTo(obj: obj): int = 
-            match obj with 
-            | :? Bet as bet -> 
-                let xNum = extractBetNumber this.Reference
-                let betNum = extractBetNumber bet.Reference
-                
-                if xNum < betNum 
-                then -1 
-                elif xNum = betNum
-                then 0
-                else 1
-            | _ -> failwith "Unexpected parameter"
+        member this.CompareTo other = 
+            match other with
+            | :? Bet as bet -> compare bet
+            | _ -> failwith "other"
+
+    interface System.IComparable<Bet> with
+        member this.CompareTo(bet : Bet) = 
+            compare bet
         
     override this.Equals obj = 
-        let thisComparable = this :> IComparable
-        (thisComparable.CompareTo obj) = 0
+        match obj with
+        | :? Bet as bet -> 
+            let thisAsComparer = this :> IComparable<Bet>
+            (thisAsComparer.CompareTo bet) = 0
+        | _ -> false
 
     override this.GetHashCode() = 
         let betNumber = extractBetNumber this.Reference
         betNumber * 13
-
-type SingleBet(matchInfo, date, stake, returns, reference) =
-    inherit Bet(date, stake, returns, reference)
-
-    override this.BetType = Single matchInfo
-
-    member this.Match = matchInfo
-
-type ExpressBet(matches, date, stake, returns, reference) = 
-    inherit Bet(date, stake, returns, reference)
-
-    let mutable betType = Express matches
-
-    override this.BetType = betType
-
-    member this.Matches = 
-        let allMatches = 
-            match this.BetType with 
-            | Express m -> m
-            | _ -> failwith "Expected Bet.Type = Express"
-        allMatches
-
-    member this.AddMatch m = 
-        let newMatches = 
-            this.Matches
-            |> Seq.append [m]
-        betType <- Express newMatches
 
 type ParseResult = 
 | Success of Bet

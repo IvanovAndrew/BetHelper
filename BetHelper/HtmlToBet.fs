@@ -1,6 +1,5 @@
 ﻿module HtmlToBet
 
-open System.Collections.Generic
 open System.IO
 open System.Text.RegularExpressions
 
@@ -51,7 +50,8 @@ let parseSingle(matchArray : string array) =
     let returns = toDouble matchArray.[8]
     let reference = matchArray.[9]
 
-    new SingleBet(matchInfo, date, stake, returns, reference)
+    //new SingleBet(matchInfo, date, stake, returns, reference)
+    new Bet(date, stake, returns, reference, Single(matchInfo))
 
 
 let parseExpress(matchArray : string array) = 
@@ -66,7 +66,8 @@ let parseExpress(matchArray : string array) =
     let returns = toDouble matchArray.[8]
     let reference = matchArray.[9]
 
-    new ExpressBet(arr, date, stake, returns, reference)
+    //new ExpressBet(arr, date, stake, returns, reference)
+    Bet(date, stake, returns, reference, Express(arr))
 
 type BetAllParser() = 
 
@@ -78,7 +79,7 @@ type BetAllParser() =
         
             let parseString str = 
                 let info = new ResizeArray<_>()
-                let bets = Regex.Matches(matchStr, fieldRegExp, RegexOptions.Singleline)
+                let bets = Regex.Matches(str, fieldRegExp, RegexOptions.Singleline)
                 
                 for m in bets do
                     info.Add m.Groups.["HEAD"].Value
@@ -92,24 +93,21 @@ type BetAllParser() =
             | 5 -> 
                 let matchInfo = parseMatchInfo (info.[2], info.[3], info.[4])
                 match !oldData with
-                | Some value -> 
-                    let express : ExpressBet = value
-                    express.AddMatch matchInfo
+                | Some (expressBet : Bet) -> expressBet.AddMatch matchInfo
                 | None -> failwithf "There is express match, but express description is absent\n"
             | 10 ->
                 match !oldData with
-                | Some value -> 
-                    let express = value :> Bet
-                    res := express :: !res
+                | Some expressBet -> 
+                    res := expressBet :: !res
                     oldData := None
                 | None -> ()
 
                 if info.Contains singleString 
                 then
                     let singleBet = info.ToArray() |> parseSingle
-                    res := (singleBet :> Bet) :: !res
+                    res := singleBet :: !res
                 else
-                    let express = parseExpress <| info.ToArray()
+                    let express = info.ToArray() |> parseExpress
                     oldData := Some <| express
 
             | _ -> failwithf "Unexpected info.Count value: %d" info.Count
@@ -121,7 +119,7 @@ type BetAllParser() =
         |> Seq.iter parse
         
         match !oldData with
-        | Some value -> res := (value :> Bet) :: !res
+        | Some value -> res := value :: !res
         | None -> ()
         
         !res

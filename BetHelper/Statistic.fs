@@ -17,28 +17,29 @@ let calculateMatches (bets : Bet seq) =
     |> Seq.fold 
         (
             fun sum bet -> 
-                match bet.BetType with
+                match bet.Matches with
                 | Single _ -> sum + 1
                 | Express matches -> sum + Seq.length matches
         ) 0
 
-let chooseWinBets (bets: Bet seq) = 
+let chooseWinBets (bets : Bet seq) = 
     bets
     |> Seq.filter (fun bet -> bet.Returns > bet.Stake)
 
-let chooseVoidBets (bets: Bet seq) = 
+let chooseVoidBets (bets : Bet seq) = 
     bets
     |> Seq.filter (fun bet -> bet.Returns = bet.Stake)
 
-let chooseLooseBets (bets: Bet seq) = 
+let chooseLooseBets (bets : Bet seq) = 
     bets
     |> Seq.filter (fun bet -> bet.Returns < bet.Stake)
 
 let printBets (bets : Bet seq) = 
     bets 
     |> Seq.iter 
-        (fun bet -> 
-            printfn "%s\t%.2f - %.2f = %.2f\t%s" bet.Date bet.Returns bet.Stake (bet.Returns - bet.Stake) bet.Reference
+        (
+            fun bet -> 
+                printfn "%s\t%.2f - %.2f = %.2f\t%s" bet.Date bet.Returns bet.Stake (bet.Returns - bet.Stake) bet.Reference
         )
 
 let calculateWinProfit (bets : Bet seq) = 
@@ -61,12 +62,11 @@ let calculateMatchesResult (bets : Bet seq) =
     |> Seq.iter 
         (
             fun bet -> 
-                match bet with 
-                | :? SingleBet as single -> mainFunc single.Match
-                | :? ExpressBet as express -> 
-                    express.Matches
+                match bet.Matches with 
+                | Single game -> mainFunc game
+                | Express games -> 
+                    games
                     |> Seq.iter mainFunc
-                | x -> failwithf "Unexpected bet type: %A" x
         )
     !won, !refund, !lost
 
@@ -83,20 +83,18 @@ let printNeedMatches (bets : Bet seq) needResult =
         printfn "%d %s %s %s" !count date _match reference
 
     let printBet (bet : Bet) = 
-        match bet with 
-        | :? SingleBet as single -> 
-            if isNeedMatch single.Match 
-            then print bet.Date single.Match.Match bet.Reference
+        match bet.Matches with 
+        | Single game -> 
+            if isNeedMatch game 
+            then print bet.Date game.Match bet.Reference
         
-        | :? ExpressBet as express -> 
+        | Express games -> 
             let winMatches = 
-                express.Matches
+                games
                 |> Seq.filter isNeedMatch
             
             winMatches
             |> Seq.iter(fun matchInfo -> print bet.Date matchInfo.Match bet.Reference)
-
-        | _ -> failwithf "Expected singleBet or ExpressBet, but received %A" bet
 
     bets 
     |> Seq.iter printBet

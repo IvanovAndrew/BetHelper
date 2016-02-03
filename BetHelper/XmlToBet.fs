@@ -1,26 +1,12 @@
 ﻿module XmlToBet
 
 open System.Xml
-open System.Collections.Generic
 
 open Constant
 open Helper
 open Structures
 
 let isEmpty str = str = ""
-
-type private DelayBetType = 
-| SingleType
-| ExpressType
-    
-    static member Create str =
-        if str = singleString then SingleType
-        elif str = expressString then ExpressType
-        else failwithf "Expected %s or %s betType, but %s was" singleString expressString str
-
-type private OneOrManyMatch = 
-| One of MatchInfo
-| Many of MatchInfo seq
 
 type XmlExtractor() = 
     
@@ -51,7 +37,6 @@ type XmlExtractor() =
             | ResultTag str -> result <- str
             | Other tag -> failwithf "Uncovered matchInfo tag: %s" tag
         
-        assert not (isEmpty _match || isEmpty event || isEmpty selection || isEmpty result)
         new MatchInfo(_match, event, selection, koefficient, result)
 
     static let parseMatches (xmlNode : XmlNode) = 
@@ -59,19 +44,18 @@ type XmlExtractor() =
         if xmlNode.ChildNodes.Count = 1 
         then 
             let matchInfo = parseMatchInfo xmlNode.FirstChild
-            One(matchInfo)
+            Single (matchInfo)
         else
             let childsSeq = seq {for child in xmlNode.ChildNodes do yield child}
             
             let matchesInfo = 
                 childsSeq
                 |> Seq.map parseMatchInfo
-            Many(matchesInfo)
+            Express(matchesInfo)
 
     static let parseBet (xmlNode : XmlNode)= 
         let mutable date = ""
-        let mutable betType = Unchecked.defaultof<DelayBetType>
-        let mutable matches = Unchecked.defaultof<OneOrManyMatch>
+        let mutable matches = Unchecked.defaultof<_>
         let mutable stake = 0.0
         let mutable returns = 0.0
         let mutable reference = ""
@@ -81,7 +65,7 @@ type XmlExtractor() =
             let text = input.InnerText
 
             if tag = dateTag then Date(text)
-            elif tag = betTypeTag then BetType(DelayBetType.Create text)
+            elif tag = betTypeTag then BetType
             elif tag = matchesTag then Matches(parseMatches input)
             elif tag = stakeTag then Stake(toDouble text)
             elif tag = returnsTag then Returns(toDouble text)
@@ -91,17 +75,14 @@ type XmlExtractor() =
         for child in xmlNode.ChildNodes do
             match child with
             | Date d -> date <- d
-            | BetType b -> betType <- b
+            | BetType -> ()
             | Matches m -> matches <- m
             | Stake s -> stake <- s
             | Returns r -> returns <- r
             | Reference r -> reference <- r
             | Other tag -> failwithf "Unsupported tag: %s" tag
         
-        match betType, matches with
-        | SingleType, One game -> new SingleBet(game, date, stake, returns, reference) :> Bet
-        | ExpressType, Many games -> new ExpressBet(games, date, stake, returns, reference) :> Bet
-        | _ -> failwith "Unexpected configuration in match parsing"
+        new Bet(date, stake, returns, reference, matches)
 
     static member ExtractData (name : string) = 
         let xmlDocument = new XmlDocument()
