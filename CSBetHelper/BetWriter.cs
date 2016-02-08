@@ -12,12 +12,12 @@ namespace CSBetHelper
             
             writer.WriteLine("\t\t\t\t<{0}>{1}</{0}>", Constant.MatchTag, matchInfo.Match);
 
-            if (String.IsNullOrEmpty(matchInfo.Event))
+            if (!String.IsNullOrEmpty(matchInfo.Event))
                 writer.WriteLine("\t\t\t\t<{0}>{1}</{0}>", Constant.EventTag, matchInfo.Event);
 
             writer.WriteLine("\t\t\t\t<{0}>{1}</{0}>", Constant.SelectionTag, matchInfo.Selection);
             writer.WriteLine("\t\t\t\t<{0}>{1:F}</{0}>", Constant.KoefficientTag, matchInfo.Koefficient);
-            writer.WriteLine("\t\t\t\t<{0}>{1}</{0}>", Constant.ResultTag, matchInfo.Result);
+            writer.WriteLine("\t\t\t\t<{0}>{1}</{0}>", Constant.ResultTag, BetResultEx.ToString(matchInfo.Result));
 
             writer.WriteLine("\t\t\t</{0}>", Constant.MatchInfoTag); 
         }

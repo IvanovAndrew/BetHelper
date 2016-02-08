@@ -6,13 +6,13 @@
         private string _event;
         private string _selection;
         private double _koefficient;
-        private string _result;
+        private BetResult _result;
         
         public string Match { get { return _match; } }
         public string Event { get { return _event; } }
         public string Selection {get { return _selection; }}
         public double Koefficient {get { return _koefficient; }}
-        public string Result { get { return _result; } }
+        public BetResult Result { get { return _result; } }
 
         private MatchInfo()
         {
@@ -55,7 +55,7 @@
                 return this;
             }
 
-            public MatchInfoBuilder Result(string result)
+            public MatchInfoBuilder Result(BetResult result)
             {
                 _matchInfo._result = result;
                 return this;
