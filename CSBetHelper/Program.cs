@@ -1,6 +1,4 @@
 ﻿using System;
-using System.IO;
-using System.Linq;
 
 namespace CSBetHelper
 {
@@ -14,10 +12,15 @@ namespace CSBetHelper
             var reader = new BetReaderFromXml();
             var bets = reader.ReadData(dbFolder + fileName);
 
-            Console.WriteLine(bets.Count());
-            string newFile = "temp.xml";
-            var writer = new BetWriter();
-            writer.WriteBets(newFile, bets);
+            var betsStat = new BetStatistic(bets);
+            Console.WriteLine(betsStat.ToString());
+            
+            var matchStatistic = new MatchStatistic(bets);
+            Console.WriteLine(matchStatistic.ToString());
+
+            //string newFile = "temp.xml";
+            //var writer = new BetWriter();
+            //writer.WriteBets(newFile, bets);
         }
     }
 }
