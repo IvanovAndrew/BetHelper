@@ -1,4 +1,7 @@
-﻿namespace CSBetHelper
+﻿using System;
+using System.Diagnostics.Contracts;
+
+namespace CSBetHelper
 {
     public class MatchInfo
     {
@@ -63,6 +66,10 @@
 
             public MatchInfo Build()
             {
+                Contract.Ensures(!String.IsNullOrEmpty(_matchInfo.Match));
+                Contract.Ensures(!String.IsNullOrEmpty(_matchInfo.Event));
+                Contract.Ensures(!String.IsNullOrEmpty(_matchInfo.Selection));
+                Contract.Ensures(_matchInfo.Koefficient >= 1);
                 return _matchInfo;
             }
         }

@@ -16,6 +16,7 @@ namespace CSBetHelper
 
         public BetStatistic(IEnumerable<Bet> bets)
         {
+            Contract.Requires(bets != null);
 
             Total = bets.Count();
             Won = bets.Count(bet => bet.Returns > bet.Stake);

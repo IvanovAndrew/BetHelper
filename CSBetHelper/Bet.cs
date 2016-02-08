@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Text.RegularExpressions;
 using CSBetHelper;
@@ -102,6 +103,7 @@ namespace CSBetHelper
 
             public Bet Build()
             {
+                //TODO check if all fields aren't empty
                 return _bet;
             }
         }
@@ -112,8 +114,8 @@ public abstract class OneOrMany
 {
     public static OneOrMany Create(IEnumerable<MatchInfo> matches)
     {
-        if (matches == null)
-            throw new ArgumentException("Matches");
+        Contract.Requires(matches != null);
+        Contract.Requires(matches.Count() > 0);
 
         OneOrMany res;
         if (matches.Count() == 1)
@@ -132,11 +134,15 @@ public class One : OneOrMany
 
     public One(MatchInfo matchInfo)
     {
+        Contract.Requires(matchInfo != null);
+        
         MatchInfo = matchInfo;
     }
 
     public override IEnumerable<MatchInfo> GetAll()
     {
+        Contract.Ensures(Contract.Result<IEnumerable<MatchInfo>>() != null);
+
         return new List<MatchInfo> {MatchInfo};
     }
 }
@@ -147,11 +153,16 @@ public class Many : OneOrMany
 
     public Many(IEnumerable<MatchInfo> matchesList)
     {
+        Contract.Requires(matchesList != null);
+        Contract.Requires(matchesList.Count() > 1);
+        
         MatchInfos = matchesList.ToList();
     }
 
     public override IEnumerable<MatchInfo> GetAll()
     {
+        Contract.Ensures(MatchInfos != null);
+
         return MatchInfos;
     }
 }
