@@ -1,6 +1,8 @@
 ﻿open System.IO
 open System.Text.RegularExpressions
 
+open Constant
+open Structures
 open XmlWriter
 open HtmlToBet
 open XmlToBet
@@ -31,7 +33,9 @@ let parseFile fileName =
     | Html 
     | Htm -> HtmlExtractor.ExtractData fullPath
     | Xml -> XmlExtractor.ExtractData fullPath
-    | Other x -> failwithf "Unsupported file extension: %s" x
+    | Other x -> 
+        let message = sprintf "Unsupported file extension: %s" x
+        invalidArg fileName message
     
 [<EntryPoint>]
 let main argv = 

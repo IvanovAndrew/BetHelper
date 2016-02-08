@@ -47,7 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constant.fs" />
-    <Compile Include="Structures.fs" />
+    <Compile Include="BetStructures.fs" />
     <Compile Include="Helper.fs" />
     <Compile Include="XmlWriter.fs" />
     <Compile Include="HtmlToBet.fs" />

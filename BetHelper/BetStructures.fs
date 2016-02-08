@@ -1,21 +1,20 @@
 ﻿module Structures
 
 open System
-open System.Collections.Generic
 open System.Text.RegularExpressions
 
 open Constant
-
-let wonString = "Won"
-let lostString = "Lost"
-let placedString = "Placed"
-let refundString = "Void"
 
 type MatchResult = 
 | Win
 | Refund
 | Lost
 | Placed
+    
+    static member private WonString = "Won"
+    static member private LostString = "Lost"
+    static member private PlacedString = "Placed"
+    static member private RefundString = "Void"
 
     static member AreEqual one two = 
         match one, two with
@@ -25,18 +24,18 @@ type MatchResult =
         | Placed, Placed -> true
         | _ -> false
     
-    static member ToString = 
-        function 
-        | Win -> wonString
-        | Refund -> refundString
-        | Lost -> lostString
-        | Placed -> placedString
+    override this.ToString() = 
+        match this with
+        | Win -> MatchResult.WonString
+        | Refund -> MatchResult.RefundString
+        | Lost -> MatchResult.LostString
+        | Placed -> MatchResult.PlacedString
 
     static member Parse str = 
-        if str = wonString then Win
-        elif str = refundString then Refund
-        elif str = lostString then Lost
-        elif str = placedString then Placed
+        if str = MatchResult.WonString then Win
+        elif str = MatchResult.RefundString then Refund
+        elif str = MatchResult.LostString then Lost
+        elif str = MatchResult.PlacedString then Placed
         else invalidArg str <| sprintf "Unexpected parser input: %s" str
 
 type MatchInfo(matchStr : string, event : string, selection : string, koefficient : double, result : MatchResult) = 
@@ -47,17 +46,17 @@ type MatchInfo(matchStr : string, event : string, selection : string, koefficien
     member this.Koefficient with get() = koefficient
     member this.Result with get() = result
 
-let singleString = "Single"
-let expressString = "Express"
-
 type BetType = 
 | Single of MatchInfo
 | Express of MatchInfo seq
+
+    static member SingleString = "Single"
+    static member ExpressString = "Express"
     
-    static member BetTypeToString betType = 
-        match betType with
-        | Single _ -> singleString
-        | Express _ -> expressString
+    override this.ToString() = 
+        match this with
+        | Single _ -> BetType.SingleString
+        | Express _ -> BetType.ExpressString
 
 type Bet(date : string, stake : double, returns : double, reference : string, matches : BetType) =
     
@@ -84,14 +83,11 @@ type Bet(date : string, stake : double, returns : double, reference : string, ma
         else 1
 
     member this.Date with get() = date
-    member this.Stake 
-        with get() = stake
-        and set value = stake <- value
+    member this.Stake with get() = stake
     member this.Returns with get() = returns
     member this.Reference with get() = reference
     member this.Matches with get() = matches
         
-
     member this.AddMatch matchInfo = 
         let newMatches = 
             match matches with
@@ -121,8 +117,3 @@ type Bet(date : string, stake : double, returns : double, reference : string, ma
     override this.GetHashCode() = 
         let betNumber = extractBetNumber this.Reference
         betNumber * 13
-
-type ParseResult = 
-| Success of Bet
-| NotFinished of Bet
-| Fail of string

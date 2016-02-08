@@ -4,7 +4,7 @@ open System.IO
 open System.Text.RegularExpressions
 
 open Constant
-open Helper
+open Converter
 open Structures
 
 let parseMatchInfo(matchStr : string, selectStr : string, result : string) = 
@@ -52,7 +52,6 @@ let parseSingle(matchArray : string array) =
     let returns = toDouble matchArray.[8]
     let reference = matchArray.[9]
 
-    //new SingleBet(matchInfo, date, stake, returns, reference)
     new Bet(date, stake, returns, reference, Single(matchInfo))
 
 
@@ -68,7 +67,6 @@ let parseExpress(matchArray : string array) =
     let returns = toDouble matchArray.[8]
     let reference = matchArray.[9]
 
-    //new ExpressBet(arr, date, stake, returns, reference)
     Bet(date, stake, returns, reference, Express(arr))
 
 type BetAllParser() = 
@@ -83,14 +81,15 @@ type BetAllParser() =
                 let info = new ResizeArray<_>()
                 let bets = Regex.Matches(str, fieldRegExp, RegexOptions.Singleline)
                 
-                for m in bets do
-                    info.Add m.Groups.["HEAD"].Value
-
-                info
+                let betsSeq = seq{for m in bets do yield m}
+                
+                betsSeq
+                |> Seq.map (fun m -> m.Groups.["HEAD"].Value)
+                |> Array.ofSeq
 
             let info = parseString matchStr
 
-            match info.Count with
+            match info.Length with
             | 0 -> printfn "Unmatched %s\n" matchStr
             | 5 -> 
                 let matchInfo = parseMatchInfo (info.[2], info.[3], info.[4])
@@ -104,15 +103,15 @@ type BetAllParser() =
                     oldData := None
                 | None -> ()
 
-                if info.Contains singleString 
+                if info |> Array.exists ((=) BetType.SingleString)
                 then
-                    let singleBet = info.ToArray() |> parseSingle
+                    let singleBet = parseSingle info
                     res := singleBet :: !res
                 else
-                    let express = info.ToArray() |> parseExpress
+                    let express = parseExpress info
                     oldData := Some <| express
 
-            | _ -> failwithf "Unexpected info.Count value: %d" info.Count
+            | _ -> failwithf "Unexpected info.Count value: %d" info.Length
 
         let totalReg = Regex.Matches(text, betRegExpr, RegexOptions.Singleline)
         let totalRegSeq = seq {for m in totalReg do yield m.Groups.["Info"].Value}
