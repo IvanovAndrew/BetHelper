@@ -1,26 +1,24 @@
 ﻿module Statistic
 
-open Constant
 open Structures
-open System
 
 let calculateProfit (bets : Bet seq) = 
     bets
-    |> Seq.fold (fun sum bet -> sum + bet.Returns - bet.Stake) 0.0
+    |> Seq.sumBy (fun bet -> bet.Returns - bet.Stake)
 
 let calculateStakes (bets : Bet seq) = 
     bets
-    |> Seq.fold (fun sum bet -> sum + bet.Stake) 0.0
+    |> Seq.sumBy (fun bet -> bet.Stake)
 
 let calculateMatches (bets : Bet seq) = 
     bets
-    |> Seq.fold 
+    |> Seq.sumBy 
         (
-            fun sum bet -> 
+            fun bet -> 
                 match bet.Matches with
-                | Single _ -> sum + 1
-                | Express matches -> sum + Seq.length matches
-        ) 0
+                | Single _ -> 1
+                | Express matches -> Seq.length matches
+        )
 
 let chooseWinBets (bets : Bet seq) = 
     bets

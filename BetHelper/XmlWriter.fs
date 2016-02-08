@@ -36,7 +36,7 @@ let matchToXmlString (matchInfo : MatchInfo) tab =
 
     printer.PrintBrInd (tab + 1) "<%s>%s</%s>" selectionTag matchInfo.Selection selectionTag
     printer.PrintBrInd (tab + 1) "<%s>%.2f</%s>" koefficientTag matchInfo.Koefficient koefficientTag
-    printer.PrintBrInd (tab + 1) "<%s>%s</%s>" resultTag <| MatchResult.ToString matchInfo.Result <| resultTag
+    printer.PrintBrInd (tab + 1) "<%s>%s</%s>" resultTag <| matchInfo.Result.ToString() <| resultTag
 
     printer.PrintBrInd tab "</%s>" matchInfoTag
 
@@ -48,12 +48,12 @@ let writeBet (printer : Printer) (bet : Bet) =
     printer.PrintBrInd 2 "<%s>%s</%s>" dateTag bet.Date dateTag
     printer.PrintBrInd 2 "<%s>%s</%s>" 
         <| betTypeTag 
-        <| BetType.BetTypeToString bet.Matches 
+        <| bet.Matches.ToString()
         <| betTypeTag
 
     match bet.Matches with
     | Single game -> 
-        printer.PrintBrInd 2 "<%s>" matchesTag        
+        printer.PrintBrInd 2 "<%s>" matchesTag
         printer.Print "%s" <| matchToXmlString game 3
         printer.PrintBrInd 2 "</%s>" matchesTag
 

@@ -3,7 +3,7 @@
 open System.Xml
 
 open Constant
-open Helper
+open Converter
 open Structures
 
 let isEmpty str = str = ""
@@ -44,7 +44,7 @@ type XmlExtractor() =
         if xmlNode.ChildNodes.Count = 1 
         then 
             let matchInfo = parseMatchInfo xmlNode.FirstChild
-            Single (matchInfo)
+            Single(matchInfo)
         else
             let childsSeq = seq {for child in xmlNode.ChildNodes do yield child}
             
