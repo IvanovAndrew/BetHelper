@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bet.cs" />
+    <Compile Include="BetParser.cs" />
     <Compile Include="BetWriter.cs" />
     <Compile Include="Constant.cs" />
     <Compile Include="BetReaderFromHtml.cs" />
