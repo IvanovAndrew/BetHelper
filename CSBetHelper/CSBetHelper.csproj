@@ -91,7 +91,7 @@
     <Compile Include="BetWriter.cs" />
     <Compile Include="Constant.cs" />
     <Compile Include="BetReaderFromHtml.cs" />
-    <Compile Include="Helper.cs" />
+    <Compile Include="Converter.cs" />
     <Compile Include="MatchInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

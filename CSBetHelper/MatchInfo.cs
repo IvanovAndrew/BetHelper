@@ -8,13 +8,13 @@ namespace CSBetHelper
         private string _match;
         private string _event;
         private string _selection;
-        private double _koefficient;
+        private decimal _koefficient;
         private BetResult _result;
         
         public string Match { get { return _match; } }
         public string Event { get { return _event; } }
         public string Selection {get { return _selection; }}
-        public double Koefficient {get { return _koefficient; }}
+        public decimal Koefficient {get { return _koefficient; }}
         public BetResult Result { get { return _result; } }
 
         private MatchInfo()
@@ -52,7 +52,7 @@ namespace CSBetHelper
                 return this;
             }
 
-            public MatchInfoBuilder Koefficient(double koefficient)
+            public MatchInfoBuilder Koefficient(decimal koefficient)
             {
                 _matchInfo._koefficient = koefficient;
                 return this;

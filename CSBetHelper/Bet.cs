@@ -10,14 +10,14 @@ namespace CSBetHelper
     public class Bet : IComparable<Bet>
     {
         private DateTime _date;
-        private double _stake;
-        private double _returns;
+        private decimal _stake;
+        private decimal _returns;
         private string _reference;
         private OneOrMany _matches;
         
         public DateTime Date { get { return _date; } }
-        public double Stake { get { return _stake; } }
-        public double Returns { get { return _returns; } }
+        public decimal Stake { get { return _stake; } }
+        public decimal Returns { get { return _returns; } }
         public string Reference { get { return _reference; } }
         public OneOrMany Matches { get { return _matches; } }
 
@@ -54,7 +54,7 @@ namespace CSBetHelper
 
         public override int GetHashCode()
         {
-            return this.Reference.GetHashCode();
+            return Reference.GetHashCode();
         }
 
         public static BetBuilder With()
@@ -77,13 +77,13 @@ namespace CSBetHelper
                 return this;
             }
 
-            public BetBuilder Stake(double stake)
+            public BetBuilder Stake(decimal stake)
             {
                 _bet._stake = stake;
                 return this;
             }
 
-            public BetBuilder Returns(double returns)
+            public BetBuilder Returns(decimal returns)
             {
                 _bet._returns = returns;
                 return this;

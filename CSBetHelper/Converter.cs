@@ -2,12 +2,12 @@
 
 namespace CSBetHelper
 {
-    static class Helper
+    static class Converter
     {
-        public static double ToDouble(string str)
+        public static decimal ToDecimal(string str)
         {
             var replacedString = (str.Replace('.', ',')).Replace("$", "");
-            return Convert.ToDouble(replacedString);
+            return Convert.ToDecimal(replacedString);
         }
     }
 }

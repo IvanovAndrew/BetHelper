@@ -18,10 +18,10 @@ namespace CSBetHelper
                         betBuilder.DateTime(Convert.ToDateTime(text));
                         break;
                     case Constant.StakeTag:
-                        betBuilder.Stake(Helper.ToDouble(text));
+                        betBuilder.Stake(Converter.ToDecimal(text));
                         break;
                     case Constant.ReturnsTag:
-                        betBuilder.Returns(Helper.ToDouble(text));
+                        betBuilder.Returns(Converter.ToDecimal(text));
                         break;
                     case Constant.ReferencesTag:
                         betBuilder.Reference(text);
@@ -63,7 +63,7 @@ namespace CSBetHelper
                         builder.Event(text);
                         break;
                     case Constant.KoefficientTag:
-                        builder.Koefficient(Helper.ToDouble(text));
+                        builder.Koefficient(Converter.ToDecimal(text));
                         break;
                     case Constant.SelectionTag:
                         builder.Selection(text);

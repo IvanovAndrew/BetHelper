@@ -11,8 +11,8 @@ namespace CSBetHelper
         public int Void { get; private set; }
         public int Lost { get; private set; }
         public int Total { get; private set; }
-        public double Profit { get; private set; }
-        public double Stake { get; private set; }
+        public decimal Profit { get; private set; }
+        public decimal Stake { get; private set; }
 
         public BetStatistic(IEnumerable<Bet> bets)
         {
@@ -37,12 +37,12 @@ namespace CSBetHelper
                                 this.Lost);
         }
 
-        private double CalculateProfit(IEnumerable<Bet> bets)
+        private decimal CalculateProfit(IEnumerable<Bet> bets)
         {
             return bets.Sum(bet => bet.Returns - bet.Stake);
         }
 
-        private double CalculateStakes(IEnumerable<Bet> bets)
+        private decimal CalculateStakes(IEnumerable<Bet> bets)
         {
             return bets.Sum(bet => bet.Stake);
         }
