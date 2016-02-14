@@ -44,6 +44,8 @@ namespace CSBetHelper
 
         private decimal CalculateStakes(IEnumerable<Bet> bets)
         {
+            Contract.Ensures(Contract.Result<decimal>() >= 0);
+
             return bets.Sum(bet => bet.Stake);
         }
     }
@@ -65,6 +67,8 @@ namespace CSBetHelper
 
         private int GetMatchesCount(IEnumerable<Bet> bets, Func<MatchInfo, bool> predicate)
         {
+            Contract.Ensures(Contract.Result<int>() >= 0);
+
             return bets.Sum(bet => bet.Matches.GetAll().Count(predicate));
         }
 

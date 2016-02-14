@@ -36,24 +36,32 @@ namespace CSBetHelper
 
             public MatchInfoBuilder Match(string match)
             {
+                Contract.Requires(!String.IsNullOrEmpty(match));
+
                 _matchInfo._match = match;
                 return this;
             }
 
             public MatchInfoBuilder Event(string _event)
             {
+                Contract.Requires(!String.IsNullOrEmpty(_event));
+
                 _matchInfo._event = _event;
                 return this;
             }
 
             public MatchInfoBuilder Selection(string selection)
             {
+                Contract.Requires(!String.IsNullOrEmpty(selection));
+
                 _matchInfo._selection = selection;
                 return this;
             }
 
             public MatchInfoBuilder Koefficient(decimal koefficient)
             {
+                Contract.Requires(koefficient >= 1);
+                
                 _matchInfo._koefficient = koefficient;
                 return this;
             }
@@ -70,6 +78,7 @@ namespace CSBetHelper
                 Contract.Ensures(!String.IsNullOrEmpty(_matchInfo.Event));
                 Contract.Ensures(!String.IsNullOrEmpty(_matchInfo.Selection));
                 Contract.Ensures(_matchInfo.Koefficient >= 1);
+
                 return _matchInfo;
             }
         }

@@ -79,31 +79,43 @@ namespace CSBetHelper
 
             public BetBuilder Stake(decimal stake)
             {
+                Contract.Requires(stake > 0);
+
                 _bet._stake = stake;
                 return this;
             }
 
             public BetBuilder Returns(decimal returns)
             {
+                Contract.Requires(returns >= 0);
+
                 _bet._returns = returns;
                 return this;
             }
 
             public BetBuilder Reference(string reference)
             {
+                Contract.Requires(!String.IsNullOrEmpty(reference));
+                
                 _bet._reference = reference;
                 return this;
             }
 
             public BetBuilder Matches(OneOrMany matches)
             {
+                Contract.Requires(matches != null);
+
                 _bet._matches = matches;
                 return this;
             }
 
             public Bet Build()
             {
-                //TODO check if all fields aren't empty
+                Contract.Ensures(_bet.Stake > 0);
+                Contract.Ensures(_bet.Returns >= 0);
+                Contract.Ensures(!String.IsNullOrEmpty(_bet.Reference));
+                Contract.Ensures(_bet.Matches != null);
+
                 return _bet;
             }
         }
@@ -115,7 +127,7 @@ public abstract class OneOrMany
     public static OneOrMany Create(IEnumerable<MatchInfo> matches)
     {
         Contract.Requires(matches != null);
-        Contract.Requires(matches.Count() > 0);
+        Contract.Requires(matches.Any());
 
         OneOrMany res;
         if (matches.Count() == 1)
