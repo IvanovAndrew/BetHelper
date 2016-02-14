@@ -28,14 +28,21 @@ let parseMatchInfo(matchStr : string, selectStr : string, result : string) =
         let src = selectSplit.[1].Trim()
         let m = Regex.Match(src, @"(?<Koef>\d+\.\d+)\s*")
         if m.Success
-        then toDouble m.Groups.["Koef"].Value
-        else failwith "Extracting koeff failed"
+        then toDecimal m.Groups.["Koef"].Value
+        else invalidOp "Extracting koeff failed"
 
     let resultType = 
-        result.Trim()
-        |> MatchResult.Parse
+        result.Trim() |> toMatchResult
 
-    MatchInfo(_match, event, selection, koeff, resultType)
+    let res : MatchInfo = 
+        {
+            Match = _match; 
+            Event = event; 
+            Selection = selection; 
+            Koefficient = koeff; 
+            Result = resultType;
+        }
+    res
 
 let parseDate (dateStr : string) = 
     
@@ -48,8 +55,8 @@ let parseSingle(matchArray : string array) =
 
     let matchInfo = parseMatchInfo (matchArray.[4], matchArray.[5], matchArray.[6])
 
-    let stake = toDouble matchArray.[7]
-    let returns = toDouble matchArray.[8]
+    let stake = toDecimal matchArray.[7]
+    let returns = toDecimal matchArray.[8]
     let reference = matchArray.[9]
 
     new Bet(date, stake, returns, reference, Single(matchInfo))
@@ -63,8 +70,8 @@ let parseExpress(matchArray : string array) =
     let arr = new ResizeArray<_>()
     arr.Add (matchInfo)
 
-    let stake = toDouble matchArray.[7]
-    let returns = toDouble matchArray.[8]
+    let stake = toDecimal matchArray.[7]
+    let returns = toDecimal matchArray.[8]
     let reference = matchArray.[9]
 
     Bet(date, stake, returns, reference, Express(arr))

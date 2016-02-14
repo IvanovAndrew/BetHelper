@@ -11,10 +11,10 @@ type MatchResult =
 | Lost
 | Placed
     
-    static member private WonString = "Won"
-    static member private LostString = "Lost"
-    static member private PlacedString = "Placed"
-    static member private RefundString = "Void"
+    static member WonString = "Won"
+    static member LostString = "Lost"
+    static member PlacedString = "Placed"
+    static member RefundString = "Void"
 
     static member AreEqual one two = 
         match one, two with
@@ -31,20 +31,14 @@ type MatchResult =
         | Lost -> MatchResult.LostString
         | Placed -> MatchResult.PlacedString
 
-    static member Parse str = 
-        if str = MatchResult.WonString then Win
-        elif str = MatchResult.RefundString then Refund
-        elif str = MatchResult.LostString then Lost
-        elif str = MatchResult.PlacedString then Placed
-        else invalidArg str <| sprintf "Unexpected parser input: %s" str
-
-type MatchInfo(matchStr : string, event : string, selection : string, koefficient : double, result : MatchResult) = 
-
-    member this.Match with get() = matchStr
-    member this.Event with get() = event
-    member this.Selection with get() = selection
-    member this.Koefficient with get() = koefficient
-    member this.Result with get() = result
+type MatchInfo = 
+    {
+        Match : string
+        Event : string
+        Selection : string
+        Koefficient : decimal
+        Result : MatchResult
+    }
 
 type BetType = 
 | Single of MatchInfo
@@ -58,13 +52,13 @@ type BetType =
         | Single _ -> BetType.SingleString
         | Express _ -> BetType.ExpressString
 
-type Bet(date : string, stake : double, returns : double, reference : string, matches : BetType) =
+type Bet(date : string, stake : decimal, returns : decimal, reference : string, matches : BetType) =
     
     let extractBetNumber str = 
         let m = Regex.Match(str, referenceRegExpr)
         if m.Success
-        then Convert.ToInt32 (m.Groups.["NUM"].Value)
-        else failwith "Trying extract stake number failed"
+        then int m.Groups.["NUM"].Value
+        else invalidArg "str" "Trying extract stake number failed"
 
     let mutable date = date
     let mutable stake = stake

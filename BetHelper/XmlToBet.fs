@@ -26,18 +26,27 @@ type XmlExtractor() =
         let mutable event = ""
         let mutable selection = ""
         let mutable result = Unchecked.defaultof<_>
-        let mutable koefficient = 0.0
+        let mutable koefficient = 0.0m
 
         for child2 in xmlNode.ChildNodes do
             match child2 with
             | MatchTag str -> _match <- str
             | EventTag str -> event <- str
             | SelectionTag str -> selection <- str
-            | KoefficientTag str -> koefficient <- toDouble str
-            | ResultTag str -> result <- MatchResult.Parse str
-            | Other tag -> failwithf "Uncovered matchInfo tag: %s" tag
+            | KoefficientTag str -> koefficient <- toDecimal str
+            | ResultTag str -> result <- toMatchResult str 
+            | Other tag -> 
+                invalidArg <| "child2" <| sprintf "Unsupported tag: %s" tag
         
-        new MatchInfo(_match, event, selection, koefficient, result)
+        let res : MatchInfo = 
+            {
+                Match = _match; 
+                Event = event; 
+                Selection = selection; 
+                Koefficient = koefficient; 
+                Result = result;
+            }
+        res
 
     static let parseMatches (xmlNode : XmlNode) = 
         
@@ -56,8 +65,8 @@ type XmlExtractor() =
     static let parseBet (xmlNode : XmlNode)= 
         let mutable date = ""
         let mutable matches = Unchecked.defaultof<_>
-        let mutable stake = 0.0
-        let mutable returns = 0.0
+        let mutable stake = 0.0m
+        let mutable returns = 0.0m
         let mutable reference = ""
 
         let (|Date|BetType|Matches|Stake|Returns|Reference|Other|) (input : XmlNode) = 
@@ -67,8 +76,8 @@ type XmlExtractor() =
             if tag = dateTag then Date(text)
             elif tag = betTypeTag then BetType
             elif tag = matchesTag then Matches(parseMatches input)
-            elif tag = stakeTag then Stake(toDouble text)
-            elif tag = returnsTag then Returns(toDouble text)
+            elif tag = stakeTag then Stake(toDecimal text)
+            elif tag = returnsTag then Returns(toDecimal text)
             elif tag = referencesTag then Reference text
             else Other text
 
