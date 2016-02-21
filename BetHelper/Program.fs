@@ -39,11 +39,12 @@ let parseFile fileName =
     
 [<EntryPoint>]
 let main argv = 
-    let xmlName = "2015_11_Novermber.xml"
+    //let xmlName = "2014.xml"
     
-    //let regExp = @"2015_May.*\.html"
-    let regExp = @"2015_November.*\.html"
+    //let regExp = @"2015_May.*\.html?"
+    let regExp = @"Demo\.xml"
     let files = findFiles regExp
+    printfn "%A files are found" files
 
     let bets = 
         files 
@@ -51,7 +52,7 @@ let main argv =
         |> Seq.concat
         |> Seq.sort
 
-    writeToXml xmlName bets
+    //writeToXml xmlName bets
 
 //    printfn "Failed %d" failed.Length
 
@@ -71,7 +72,7 @@ let main argv =
     printfn "Total matches is %d: +%d =%d -%d" totalMatches winMatches refundMatches lostMathces
 
 //    printfn "Win profit is %f" <| calculateWinProfit bets
-    printBets bets
+    //printBets bets
 //    printfn ""
-    //printNeedMatches bets Win
+    //printNeedMatches bets Lost
     0 // return an integer exit code
