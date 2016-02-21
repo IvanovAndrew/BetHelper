@@ -33,7 +33,7 @@ type XmlExtractor() =
             | MatchTag str -> _match <- str
             | EventTag str -> event <- str
             | SelectionTag str -> selection <- str
-            | KoefficientTag str -> koefficient <- toDecimal str
+            | KoefficientTag str -> koefficient <- decimal str
             | ResultTag str -> result <- toMatchResult str 
             | Other tag -> 
                 invalidArg <| "child2" <| sprintf "Unsupported tag: %s" tag
@@ -76,8 +76,8 @@ type XmlExtractor() =
             if tag = dateTag then Date(text)
             elif tag = betTypeTag then BetType
             elif tag = matchesTag then Matches(parseMatches input)
-            elif tag = stakeTag then Stake(toDecimal text)
-            elif tag = returnsTag then Returns(toDecimal text)
+            elif tag = stakeTag then Stake(decimal text)
+            elif tag = returnsTag then Returns(decimal text)
             elif tag = referencesTag then Reference text
             else Other text
 
